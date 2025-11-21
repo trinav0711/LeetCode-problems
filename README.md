@@ -37,6 +37,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/trinav0711/LeetCode-problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/trinav0711/LeetCode-problems/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/trinav0711/LeetCode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
@@ -50,6 +51,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/trinav0711/LeetCode-problems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/trinav0711/LeetCode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
@@ -82,4 +84,8 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/trinav0711/LeetCode-problems/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/trinav0711/LeetCode-problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
