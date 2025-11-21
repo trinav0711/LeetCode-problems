@@ -9,13 +9,14 @@ public:
         }
         if(sumc>sumg)
             return -1;
-        int suffix[n];
-        suffix[n-1]=gas[n-1]-cost[n-1];
-        int maxIdx=n-1;
+        int suffix=gas[n-1]-cost[n-1];
+        int maxIdx=n-1; int suffixMax=suffix;
         for(int i=n-2;i>=0;i--){
-            suffix[i]=gas[i]-cost[i]+suffix[i+1];
-            if(suffix[i]>suffix[maxIdx])
+            suffix=gas[i]-cost[i]+suffix;
+            if(suffix>suffixMax){
+                suffixMax=suffix;
                 maxIdx=i;
+            }
         }
         return maxIdx;
     }
