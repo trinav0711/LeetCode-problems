@@ -12,7 +12,6 @@ public:
                 cur_space+=(1+words[i].size());
             }
             i--;
-            cout<<"i now at "<<i<<"\n";
             int padding=maxWidth-cur_space;
             string s=words[cur];
             if(i+1>=words.size() || i==cur){
@@ -24,10 +23,6 @@ public:
             else {
                 int spaces=padding+i-cur;
                 int common_space=spaces/(i-cur), extra_right=spaces%(i-cur);
-                
-                cout<<"spaces="<<spaces<<"\n";
-                cout<<"common space="<<common_space<<"\n";
-                cout<<"extra space="<<extra_right<<"\n";
                 for(int j=cur+1, slots=0;j<=i;j++){
                     int spaceCount=common_space+(j-cur<=extra_right?1:0);
                     for(int ctr=0;ctr<spaceCount;ctr++) s+=" ";
@@ -36,7 +31,6 @@ public:
             }
             line.push_back(s);
             cur=i+1;
-            cout<<"Cur is now "<<cur<<"\n";
         }
         return line;
     }
