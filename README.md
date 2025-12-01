@@ -17,6 +17,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trinav0711/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/trinav0711/LeetCode-problems/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/trinav0711/LeetCode-problems/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/trinav0711/LeetCode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/trinav0711/LeetCode-problems/tree/master/0238-product-of-array-except-self) |
@@ -77,6 +78,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0055-jump-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/trinav0711/LeetCode-problems/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/trinav0711/LeetCode-problems/tree/master/0135-candy) |
 ## Counting Sort
 |  |
 | ------- |
