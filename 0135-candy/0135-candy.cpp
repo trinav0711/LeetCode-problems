@@ -12,12 +12,12 @@ public:
         i--;
         if(ratings[i]>ratings[i-1])
             c[i]=c[i-1]+1;
+        sum=c[i];
         for(i=ratings.size()-2;i>=0;i--){
             if(ratings[i]>ratings[i+1])
                 c[i]=max(c[i], c[i+1]+1);
+            sum+=c[i];
         }
-        sum=0;
-        for(int candle:c) sum+=candle;
         return sum;
     }
 };
