@@ -9,6 +9,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0014-longest-common-prefix](https://github.com/trinav0711/LeetCode-problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/trinav0711/LeetCode-problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/trinav0711/LeetCode-problems/tree/master/0068-text-justification) |
@@ -29,6 +30,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0026-remove-duplicates-from-sorted-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/trinav0711/LeetCode-problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/trinav0711/LeetCode-problems/tree/master/0125-valid-palindrome) |
@@ -66,6 +68,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trinav0711/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -120,4 +123,12 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/trinav0711/LeetCode-problems/tree/master/0068-text-justification) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
