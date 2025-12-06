@@ -19,6 +19,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/trinav0711/LeetCode-problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/trinav0711/LeetCode-problems/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/trinav0711/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/trinav0711/LeetCode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/trinav0711/LeetCode-problems/tree/master/0238-product-of-array-except-self) |
@@ -35,6 +36,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0088-merge-sorted-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/trinav0711/LeetCode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/trinav0711/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0392-is-subsequence) |
 ## Sorting
@@ -131,4 +133,8 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/trinav0711/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
