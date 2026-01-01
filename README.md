@@ -14,6 +14,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0036-valid-sudoku](https://github.com/trinav0711/LeetCode-problems/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/trinav0711/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/trinav0711/LeetCode-problems/tree/master/0068-text-justification) |
@@ -83,6 +84,7 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0012-integer-to-roman](https://github.com/trinav0711/LeetCode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/trinav0711/LeetCode-problems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/trinav0711/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/trinav0711/LeetCode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
@@ -177,5 +179,6 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/trinav0711/LeetCode-problems/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/trinav0711/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
