@@ -105,6 +105,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/trinav0711/LeetCode-problems/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/trinav0711/LeetCode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/trinav0711/LeetCode-problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/trinav0711/LeetCode-problems/tree/master/0048-rotate-image) |
@@ -230,5 +231,10 @@ LeetCode problems solved to demonstrate and track progress
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/trinav0711/LeetCode-problems/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/trinav0711/LeetCode-problems/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/trinav0711/LeetCode-problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
