@@ -47,6 +47,7 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0011-container-with-most-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/trinav0711/LeetCode-problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -233,6 +234,7 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/trinav0711/LeetCode-problems/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/trinav0711/LeetCode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/trinav0711/LeetCode-problems/tree/master/0138-copy-list-with-random-pointer) |
