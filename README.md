@@ -54,6 +54,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0042-trapping-rain-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/trinav0711/LeetCode-problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/trinav0711/LeetCode-problems/tree/master/0141-linked-list-cycle) |
@@ -238,6 +239,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0019-remove-nth-node-from-end-of-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/trinav0711/LeetCode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/trinav0711/LeetCode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/trinav0711/LeetCode-problems/tree/master/0141-linked-list-cycle) |
