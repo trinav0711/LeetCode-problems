@@ -12,8 +12,6 @@ class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
         ListNode *cur=head,*prev=nullptr;
-        ios_base::sync_with_stdio(0);
-        cin.tie(nullptr);
         set<int> dup;
         while(cur){
             if(prev && cur->val==prev->val){
