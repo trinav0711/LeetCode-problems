@@ -104,6 +104,7 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/trinav0711/LeetCode-problems/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/trinav0711/LeetCode-problems/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
@@ -311,4 +312,8 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/trinav0711/LeetCode-problems/tree/master/0146-lru-cache) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/trinav0711/LeetCode-problems/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
