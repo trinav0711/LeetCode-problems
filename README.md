@@ -220,6 +220,7 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/trinav0711/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/trinav0711/LeetCode-problems/tree/master/0222-count-complete-tree-nodes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -277,6 +278,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0112-path-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/trinav0711/LeetCode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/trinav0711/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/trinav0711/LeetCode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -322,6 +324,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0112-path-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/trinav0711/LeetCode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/trinav0711/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/trinav0711/LeetCode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -348,4 +351,5 @@ LeetCode problems solved to demonstrate and track progress
 | [0137-single-number-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/trinav0711/LeetCode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/trinav0711/LeetCode-problems/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/trinav0711/LeetCode-problems/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
