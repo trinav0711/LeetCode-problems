@@ -22,6 +22,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0055-jump-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/trinav0711/LeetCode-problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/trinav0711/LeetCode-problems/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/trinav0711/LeetCode-problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/trinav0711/LeetCode-problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/trinav0711/LeetCode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -123,6 +124,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0012-integer-to-roman](https://github.com/trinav0711/LeetCode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/trinav0711/LeetCode-problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/trinav0711/LeetCode-problems/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/trinav0711/LeetCode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/trinav0711/LeetCode-problems/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/trinav0711/LeetCode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0189-rotate-array) |
