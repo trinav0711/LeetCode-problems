@@ -127,6 +127,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0048-rotate-image](https://github.com/trinav0711/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/trinav0711/LeetCode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/trinav0711/LeetCode-problems/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/trinav0711/LeetCode-problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/trinav0711/LeetCode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0202-happy-number) |
@@ -224,6 +225,7 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/trinav0711/LeetCode-problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/trinav0711/LeetCode-problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/trinav0711/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/trinav0711/LeetCode-problems/tree/master/0222-count-complete-tree-nodes) |
