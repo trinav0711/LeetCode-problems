@@ -128,6 +128,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0066-plus-one](https://github.com/trinav0711/LeetCode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/trinav0711/LeetCode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/trinav0711/LeetCode-problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/trinav0711/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/trinav0711/LeetCode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0202-happy-number) |
@@ -138,6 +139,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0042-trapping-rain-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/trinav0711/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trinav0711/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0392-is-subsequence) |
@@ -371,4 +373,8 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/trinav0711/LeetCode-problems/tree/master/0133-clone-graph) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/trinav0711/LeetCode-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
