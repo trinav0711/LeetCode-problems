@@ -27,6 +27,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0073-set-matrix-zeroes](https://github.com/trinav0711/LeetCode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trinav0711/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0128-longest-consecutive-sequence) |
@@ -110,6 +111,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/trinav0711/LeetCode-problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/trinav0711/LeetCode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/trinav0711/LeetCode-problems/tree/master/0191-number-of-1-bits) |
@@ -291,6 +293,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0102-binary-tree-level-order-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/trinav0711/LeetCode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/trinav0711/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
@@ -345,6 +348,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0102-binary-tree-level-order-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/trinav0711/LeetCode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/trinav0711/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
@@ -358,6 +362,7 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Union-Find
