@@ -10,7 +10,6 @@ private:
         int mid=(s+e)/2;
         if(t==m[mid][0])
             return mid;
-        cout<<"start="<<s<<" and end="<<e<<"\n";
         if(t>m[mid][0])
             return findRow(m, t, mid, e-1);
         return findRow(m, t, s, mid-1);
