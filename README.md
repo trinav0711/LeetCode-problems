@@ -39,6 +39,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0137-single-number-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/trinav0711/LeetCode-problems/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/trinav0711/LeetCode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/trinav0711/LeetCode-problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/trinav0711/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/trinav0711/LeetCode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0189-rotate-array) |
@@ -247,6 +248,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0035-search-insert-position](https://github.com/trinav0711/LeetCode-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/trinav0711/LeetCode-problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/trinav0711/LeetCode-problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/trinav0711/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/trinav0711/LeetCode-problems/tree/master/0222-count-complete-tree-nodes) |
