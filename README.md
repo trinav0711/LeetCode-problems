@@ -298,6 +298,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0086-partition-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/trinav0711/LeetCode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/trinav0711/LeetCode-problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/trinav0711/LeetCode-problems/tree/master/0146-lru-cache) |
@@ -321,6 +322,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/trinav0711/LeetCode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/trinav0711/LeetCode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/trinav0711/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
@@ -339,6 +341,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0104-maximum-depth-of-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/trinav0711/LeetCode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/trinav0711/LeetCode-problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/trinav0711/LeetCode-problems/tree/master/0133-clone-graph) |
@@ -361,6 +364,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/trinav0711/LeetCode-problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/trinav0711/LeetCode-problems/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/trinav0711/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
@@ -384,6 +388,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/trinav0711/LeetCode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/trinav0711/LeetCode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/trinav0711/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
