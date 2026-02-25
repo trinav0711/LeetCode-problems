@@ -12,6 +12,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0015-3sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/trinav0711/LeetCode-problems/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/trinav0711/LeetCode-problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/trinav0711/LeetCode-problems/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0042-trapping-rain-water) |
@@ -251,6 +252,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/trinav0711/LeetCode-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/trinav0711/LeetCode-problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0074-search-a-2d-matrix) |
