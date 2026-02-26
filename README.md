@@ -23,6 +23,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0055-jump-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/trinav0711/LeetCode-problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/trinav0711/LeetCode-problems/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/trinav0711/LeetCode-problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/trinav0711/LeetCode-problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/trinav0711/LeetCode-problems/tree/master/0073-set-matrix-zeroes) |
@@ -156,6 +157,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0042-trapping-rain-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/trinav0711/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/trinav0711/LeetCode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trinav0711/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -277,6 +279,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0036-valid-sudoku](https://github.com/trinav0711/LeetCode-problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/trinav0711/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/trinav0711/LeetCode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/trinav0711/LeetCode-problems/tree/master/0130-surrounded-regions) |
