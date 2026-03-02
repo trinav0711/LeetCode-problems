@@ -85,6 +85,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0189-rotate-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/trinav0711/LeetCode-problems/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -231,6 +232,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0383-ransom-note](https://github.com/trinav0711/LeetCode-problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/trinav0711/LeetCode-problems/tree/master/0399-evaluate-division) |
+| [1768-merge-strings-alternately](https://github.com/trinav0711/LeetCode-problems/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
