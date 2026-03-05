@@ -1,35 +1,26 @@
 class Solution {
+private:
+    pair<string, int> findStr(string& str, int idx) {
+        int i;
+        for(i=idx;i<str.length() && str[i]!=' ';i++);
+        return {str.substr(idx, i-idx), i};
+    }
 public:
     string reverseWords(string s) {
-        reverse(s.begin(), s.end());
-        int start=0, end=1;
-        while(end<s.length()) {
-            while(end < s.length() && s[end] != ' ') end++;
-            int temp_end=end;
-            end--;
-            while(start < end) {
-                swap(s[start], s[end]);
-                start++; end--;
-            }
-            start=temp_end+1;
-            end=start+1;
+        vector<string> v;
+        int i=0;
+        while(i<s.length()) {
+            for(i;i<s.length() && s[i]==' ';i++);
+            if(i>=s.length())
+                break;
+            pair<string, int> tmp = findStr(s, i);
+            v.push_back(tmp.first);
+            i=tmp.second+1;
         }
-        vector<bool> temp(s.length(), false);
-        bool isSpace=true;
-        for(int i=0;i<s.length();i++){
-            if(s[i] != ' ') isSpace=false;
-            if(s[i] == ' '){
-                if(isSpace) temp[i]=true;
-                else isSpace=true;
-            }
-        }
-        int i=s.length()-1;
-        while(i>=0 && s[i]==' ') i--;
-        for(i=i+1;i<s.length();i++) temp[i]=true;
-        string s1="";
-        for(int i=0;i<s.length();i++){
-            if(!temp[i]) s1+=s[i];
-        }
-        return s1;
+        reverse(v.begin(), v.end());
+        string ans=v[0];
+        for(int i=1;i<v.size();i++)
+            ans=ans+" "+v[i];
+        return ans;
     }
 };
