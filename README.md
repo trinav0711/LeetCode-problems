@@ -64,6 +64,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/trinav0711/LeetCode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/trinav0711/LeetCode-problems/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/trinav0711/LeetCode-problems/tree/master/0724-find-pivot-index) |
+| [1207-unique-number-of-occurrences](https://github.com/trinav0711/LeetCode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/trinav0711/LeetCode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/trinav0711/LeetCode-problems/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/trinav0711/LeetCode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -133,6 +134,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0290-word-pattern](https://github.com/trinav0711/LeetCode-problems/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/trinav0711/LeetCode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/trinav0711/LeetCode-problems/tree/master/0383-ransom-note) |
+| [1207-unique-number-of-occurrences](https://github.com/trinav0711/LeetCode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/trinav0711/LeetCode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
 |  |
