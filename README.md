@@ -212,6 +212,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0155-min-stack](https://github.com/trinav0711/LeetCode-problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/trinav0711/LeetCode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/trinav0711/LeetCode-problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0933-number-of-recent-calls](https://github.com/trinav0711/LeetCode-problems/tree/master/0933-number-of-recent-calls) |
 ## Randomized
 |  |
 | ------- |
@@ -499,4 +500,12 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/trinav0711/LeetCode-problems/tree/master/0149-max-points-on-a-line) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/trinav0711/LeetCode-problems/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/trinav0711/LeetCode-problems/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
