@@ -31,6 +31,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0074-search-a-2d-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/trinav0711/LeetCode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trinav0711/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -119,6 +120,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0049-group-anagrams](https://github.com/trinav0711/LeetCode-problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/trinav0711/LeetCode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/trinav0711/LeetCode-problems/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/trinav0711/LeetCode-problems/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/trinav0711/LeetCode-problems/tree/master/0138-copy-list-with-random-pointer) |
@@ -139,6 +141,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/trinav0711/LeetCode-problems/tree/master/0169-majority-element) |
@@ -354,6 +357,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0102-binary-tree-level-order-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -420,6 +424,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0102-binary-tree-level-order-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
