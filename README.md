@@ -374,6 +374,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -441,6 +442,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -449,6 +451,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0173-binary-search-tree-iterator](https://github.com/trinav0711/LeetCode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Union-Find
 |  |
 | ------- |
