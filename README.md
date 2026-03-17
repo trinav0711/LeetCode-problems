@@ -173,6 +173,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0202-happy-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/trinav0711/LeetCode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -191,6 +192,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0300-longest-increasing-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/trinav0711/LeetCode-problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0392-is-subsequence) |
+| [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -484,6 +486,7 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0070-climbing-stairs](https://github.com/trinav0711/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/trinav0711/LeetCode-problems/tree/master/0139-word-break) |
+| [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 ## Shortest Path
 |  |
 | ------- |
