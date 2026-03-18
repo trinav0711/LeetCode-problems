@@ -70,6 +70,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0746-min-cost-climbing-stairs](https://github.com/trinav0711/LeetCode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1207-unique-number-of-occurrences](https://github.com/trinav0711/LeetCode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/trinav0711/LeetCode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/trinav0711/LeetCode-problems/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/trinav0711/LeetCode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
@@ -98,6 +99,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0283-move-zeroes](https://github.com/trinav0711/LeetCode-problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0392-is-subsequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/trinav0711/LeetCode-problems/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -111,6 +113,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0242-valid-anagram](https://github.com/trinav0711/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/trinav0711/LeetCode-problems/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/trinav0711/LeetCode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +143,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0380-insert-delete-getrandom-o1](https://github.com/trinav0711/LeetCode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/trinav0711/LeetCode-problems/tree/master/0383-ransom-note) |
 | [1207-unique-number-of-occurrences](https://github.com/trinav0711/LeetCode-problems/tree/master/1207-unique-number-of-occurrences) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/trinav0711/LeetCode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
 |  |
