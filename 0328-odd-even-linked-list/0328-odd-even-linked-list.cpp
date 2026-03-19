@@ -11,7 +11,6 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-        bool even=false;
         auto cur=head;
         ListNode *newHead=nullptr, *prev=nullptr;
         if(!cur || cur->next==nullptr)
