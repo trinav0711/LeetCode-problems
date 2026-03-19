@@ -101,6 +101,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0392-is-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/trinav0711/LeetCode-problems/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -356,6 +357,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0146-lru-cache](https://github.com/trinav0711/LeetCode-problems/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0206-reverse-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
