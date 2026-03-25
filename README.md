@@ -73,6 +73,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/trinav0711/LeetCode-problems/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/trinav0711/LeetCode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,6 +150,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/trinav0711/LeetCode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -290,6 +292,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0067-add-binary](https://github.com/trinav0711/LeetCode-problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/trinav0711/LeetCode-problems/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/trinav0711/LeetCode-problems/tree/master/0289-game-of-life) |
+| [2352-equal-row-and-column-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -339,6 +342,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0130-surrounded-regions](https://github.com/trinav0711/LeetCode-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/trinav0711/LeetCode-problems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/trinav0711/LeetCode-problems/tree/master/0289-game-of-life) |
+| [2352-equal-row-and-column-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Union Find
 |  |
 | ------- |
