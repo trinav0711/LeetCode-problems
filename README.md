@@ -115,6 +115,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0242-valid-anagram](https://github.com/trinav0711/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/trinav0711/LeetCode-problems/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/trinav0711/LeetCode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
@@ -145,6 +146,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0380-insert-delete-getrandom-o1](https://github.com/trinav0711/LeetCode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/trinav0711/LeetCode-problems/tree/master/0383-ransom-note) |
 | [1207-unique-number-of-occurrences](https://github.com/trinav0711/LeetCode-problems/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/trinav0711/LeetCode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
@@ -161,6 +163,7 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0169-majority-element](https://github.com/trinav0711/LeetCode-problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/trinav0711/LeetCode-problems/tree/master/0383-ransom-note) |
+| [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 ## Math
 |  |
 | ------- |
@@ -269,6 +272,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0443-string-compression](https://github.com/trinav0711/LeetCode-problems/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/trinav0711/LeetCode-problems/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/trinav0711/LeetCode-problems/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
