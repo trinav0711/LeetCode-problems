@@ -209,6 +209,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0322-coin-change](https://github.com/trinav0711/LeetCode-problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/trinav0711/LeetCode-problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0790-domino-and-tromino-tiling](https://github.com/trinav0711/LeetCode-problems/tree/master/0790-domino-and-tromino-tiling) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
