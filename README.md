@@ -275,6 +275,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0345-reverse-vowels-of-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/trinav0711/LeetCode-problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/trinav0711/LeetCode-problems/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/trinav0711/LeetCode-problems/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/trinav0711/LeetCode-problems/tree/master/0649-dota2-senate) |
@@ -311,6 +312,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0150-evaluate-reverse-polish-notation](https://github.com/trinav0711/LeetCode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/trinav0711/LeetCode-problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/trinav0711/LeetCode-problems/tree/master/0173-binary-search-tree-iterator) |
+| [0394-decode-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/trinav0711/LeetCode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/trinav0711/LeetCode-problems/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -392,6 +394,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0025-reverse-nodes-in-k-group](https://github.com/trinav0711/LeetCode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/trinav0711/LeetCode-problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
