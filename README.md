@@ -236,6 +236,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0155-min-stack](https://github.com/trinav0711/LeetCode-problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/trinav0711/LeetCode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/trinav0711/LeetCode-problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0901-online-stock-span](https://github.com/trinav0711/LeetCode-problems/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/trinav0711/LeetCode-problems/tree/master/0933-number-of-recent-calls) |
 ## Randomized
 |  |
@@ -315,6 +316,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0394-decode-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/trinav0711/LeetCode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/trinav0711/LeetCode-problems/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/trinav0711/LeetCode-problems/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -322,6 +324,7 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0042-trapping-rain-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/trinav0711/LeetCode-problems/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/trinav0711/LeetCode-problems/tree/master/0901-online-stock-span) |
 ## Binary Search
 |  |
 | ------- |
@@ -572,6 +575,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/trinav0711/LeetCode-problems/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/trinav0711/LeetCode-problems/tree/master/0933-number-of-recent-calls) |
 ## Interactive
 |  |
