@@ -421,6 +421,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0700-search-in-a-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/trinav0711/LeetCode-problems/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -446,6 +447,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0637-average-of-levels-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/trinav0711/LeetCode-problems/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -468,6 +470,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -494,6 +497,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0700-search-in-a-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/trinav0711/LeetCode-problems/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
