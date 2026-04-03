@@ -8,32 +8,44 @@
  * };
  */
 class Solution {
-    TreeNode* lca = nullptr;
-    pair<bool, bool> pr={false, false};
+private:
+    TreeNode* target;
+    bool found;
+    void dfs(vector<TreeNode*>& s, TreeNode* root) {
+        if(!root)
+            return;
+        s.push_back(root);
+        if(root->val==target->val) {
+            found=true;
+            return;
+        }
+        if(root->left && !found)
+            dfs(s, root->left);
+        if(root->right && !found)
+            dfs(s, root->right);
+        if(!found)
+            s.pop_back();
+    }
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(!root)
-            return root;
-        cout<<"Value="<<root->val<<"\n";
-        TreeNode *tmp1,*tmp2,*tmp;
-        tmp1=tmp2=tmp=nullptr;
-        if(root->left)
-            tmp1=lowestCommonAncestor(root->left, p, q);   
-        if(root->right)
-            tmp2=lowestCommonAncestor(root->right, p, q);
-        if(root==p || root==q) {
-            if(root==p)
-                pr.first=true;
-            else
-                pr.second=true;
-            tmp=root;
+        vector<TreeNode*> v1, v2;
+        target=p;
+        found=false;
+        dfs(v1, root);
+        target=q;
+        found=false;
+        dfs(v2, root);
+        if(v1.size()!=v2.size()) {
+            auto& ref=v1.size()>v2.size()?v1:v2;
+            while(v1.size()!=v2.size())
+                ref.pop_back();
         }
-        if(!lca && pr.first && pr.second) {
-            if(tmp1 && tmp2)
-                lca=root;
-            else if(tmp && (tmp1 || tmp2))
-                lca=root;
+        while(!v1.empty() && !v2.empty()) {
+            if(v1.back()->val==v2.back()->val)
+                return v1.back();
+            v1.pop_back();
+            v2.pop_back();
         }
-        return lca?lca:(tmp?tmp:(tmp1?tmp1:tmp2));
+        return root;
     }
 };
