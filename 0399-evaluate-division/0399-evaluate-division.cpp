@@ -1,46 +1,47 @@
 class Solution {
-    double dfs(map<pair<string,string>,double>& m, map<string, vector<string>>& m1, string& s, string& d) const {
-        queue<string>q;
-        m[{s,s}]=1;
-        if(d==s)
-            return 1;
-        q.push(s);
-        set<string> visit;
-        while(!q.empty()) {
-            visit.insert(q.front());
-            for(string s1:m1[q.front()]) {
-                if(visit.find(s1)!=visit.end())
-                    continue;
-                m[{s, s1}]=m[{s,q.front()}]*m[{q.front(),s1}];
-                cout<<"source="<<q.front()<<" and dest="<<s1<<"\n";
-                if(s1==d)
-                    return m[{s,s1}];
-                q.push(s1);
-            }
-            q.pop();
+private:
+    double found;
+    void dfs(unordered_map<string, vector<pair<string, double>>>& m, string& source, string& target, set<string>& visit, double p) {
+        if(source==target) {
+            found=p;
+            return;
         }
-        return -1;
+        for(auto& [t, value]:m[source]) {
+            if(found!=DBL_MIN)
+                break;
+            if(!visit.count(t)) {
+                visit.insert(t);
+                dfs(m, t, target, visit, p*value);
+            }
+        }
     }
 public:
     vector<double> calcEquation(vector<vector<string>>& equations, vector<double>& values, vector<vector<string>>& queries) {
-        map<pair<string, string>, double> m;
-        set<string> s;
-        map<string, vector<string>> m1;
-        vector<vector<string>>& eq=equations;
-        for(int i=0;i<eq.size(); i++) {
-            s.insert(eq[i][0]); s.insert(eq[i][1]);
-            m[{eq[i][0], eq[i][1]}]=values[i];
-            m[{eq[i][1], eq[i][0]}]=1/values[i];
-            m1[eq[i][0]].push_back(eq[i][1]);
-            m1[eq[i][1]].push_back(eq[i][0]);
+        set<pair<string, string>> n;
+        unordered_map<string, vector<pair<string, double>>> e;
+        unordered_set<string> nodes;
+        for(int i=0;i<equations.size();++i) {
+            auto f=equations[i][0], s=equations[i][1];
+            nodes.insert(f); nodes.insert(s);
+            if(s==f)
+                continue;
+            if(!n.count({f,s}))
+                e[f].push_back({s,values[i]});
+            n.insert({f,s});
+            if(!n.count({s,f}))
+                e[s].push_back({f, 1/values[i]});
+            n.insert({s,f});
         }
         vector<double> ans;
-        for(vector<string> q:queries) {
-            if(s.find(q[0])==s.end() || s.find(q[1])==s.end()) {
+        for(auto& v:queries) {
+            if(!nodes.count(v[0]) || !nodes.count(v[1])) {
                 ans.push_back(-1);
                 continue;
             }
-            ans.push_back(dfs(m, m1, q[0], q[1]));
+            found=DBL_MIN;
+            set<string> tmp;
+            dfs(e, v[0], v[1], tmp, 1);
+            ans.push_back(found!=DBL_MIN?found:-1);
         }
         return ans;
     }
