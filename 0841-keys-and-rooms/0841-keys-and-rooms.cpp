@@ -10,10 +10,6 @@ private:
 public:
     bool canVisitAllRooms(vector<vector<int>>& rooms) {
         set<int>visit;
-        int m=INT_MIN;
-        for(auto v:rooms)
-            for(auto x:v)
-                m=max(m, x);
         dfs(visit, 0, rooms);
         return visit.size()==rooms.size();
     }
