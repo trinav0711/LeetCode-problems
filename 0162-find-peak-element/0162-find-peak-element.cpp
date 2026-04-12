@@ -1,30 +1,28 @@
 class Solution {
 private:
-    int getIdx(vector<int>& v, int s, int e) {
-        if(v[s+1]<v[s]) {
-            if(s==0 || v[s]>v[s-1])
-                return s;
-        }
-        if(s==e)
-            return -1;
-        if(v[e]>v[e-1]) {
-            if(e==v.size()-1 || v[e]>v[e+1])
-                return e;
-        }
-        if(s>=e)
-            return -1;
-        int mid=(s+e)/2;
-        if(v[mid]>v[mid+1] && (mid==0 || v[mid]>v[mid-1]))
-            return mid;
-        int idx= getIdx(v, s, mid);
-        if(idx!=-1)
-            return idx;
-        return getIdx(v, mid+1, e);
-    }
+    
 public:
-    int findPeakElement(vector<int>& nums) {
-        if(nums.size()<=1)
+    int findPeakElement(vector<int>& nums, int first=0, int last=INT_MAX) {
+        if(nums.size()==1)
             return 0;
-        return getIdx(nums, 0, nums.size()-1);
+        if(last==INT_MAX)
+            last=nums.size()-1;
+        if(first>=last)
+            return -1;
+        if(last && nums[first]>nums[first+1]) {
+            if(!first || nums[first]>nums[first-1])
+                return first;
+        }
+        if(nums[last]>nums[last-1]) {
+            if(last==nums.size()-1 || nums[last]>nums[last+1])
+                return last;
+        }
+        int mid=(first+last)/2;
+        if((mid && nums[mid]>nums[mid-1]) && (mid<nums.size()-1 && nums[mid]>nums[mid+1]))
+            return mid;
+        int tmp=findPeakElement(nums, first, mid-1);
+        if(tmp!=-1)
+            return tmp;
+        return findPeakElement(nums, mid, last-1);
     }
 };
