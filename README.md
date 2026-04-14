@@ -72,6 +72,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0735-asteroid-collision](https://github.com/trinav0711/LeetCode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/trinav0711/LeetCode-problems/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/trinav0711/LeetCode-problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/trinav0711/LeetCode-problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/trinav0711/LeetCode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/trinav0711/LeetCode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -358,6 +359,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0222-count-complete-tree-nodes](https://github.com/trinav0711/LeetCode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/trinav0711/LeetCode-problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0875-koko-eating-bananas](https://github.com/trinav0711/LeetCode-problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/trinav0711/LeetCode-problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sliding Window
