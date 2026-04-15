@@ -6,72 +6,68 @@ class LRUCache {
             Node* prev;
             Node* next;
 
-            Node(int key, int val){
-                this->key = key;
-                this->val = val;
+            Node(int key, int val) : key(key), val(val) {
+                prev=next=nullptr;
             }
     };
 
-    Node* head = new Node(-1, -1);
-    Node* tail = new Node(-1, -1);
+    Node* head;
+    Node* tail;
 
     int cap;
     unordered_map<int, Node*> m;
 
 public:
-    LRUCache(int capacity) {
-        cap = capacity;
-        head -> next = tail;
-        tail -> prev = head;
-    }
+    LRUCache(int capacity): cap(capacity), head(nullptr), tail(nullptr) {}
 
     void addNode(Node* newnode){
-        Node* temp = head -> next;
-
-        newnode -> next = temp;
-        newnode -> prev = head;
-
-        head -> next = newnode;
-        temp -> prev = newnode;
+        m[newnode->key]=newnode;
+        if(!head) {
+            head = tail = newnode;
+            return;
+        }
+        newnode->next=head;
+        head->prev=newnode;
+        head=newnode;
     }
 
     void deleteNode(Node* delnode){
-        Node* prevv = delnode -> prev;
-        Node* nextt = delnode -> next;
-
-        prevv -> next = nextt;
-        nextt -> prev = prevv;
+        if(tail==delnode)
+            tail=delnode->prev;
+        else
+            delnode->next->prev=delnode->prev;
+        if(head==delnode)
+            head=delnode->next;
+        else
+            delnode->prev->next=delnode->next;
     }
     
     int get(int key) {
-        if(m.find(key) != m.end()){
-            Node* resNode = m[key];
-            int ans = resNode -> val;
-
-            m.erase(key);
-            deleteNode(resNode);
-            addNode(resNode);
-
-            m[key] = head -> next;
-            return ans;
-        }
-        return -1;
+        if(m.find(key)==m.end())
+            return -1;
+        deleteNode(m[key]);
+        addNode(m[key]);
+        return m[key]->val;
     }
     
     void put(int key, int value) {
-        if(m.find(key) != m.end()){
-            Node* curr = m[key];
-            m.erase(key);
-            deleteNode(curr);
+        Node* newnode = nullptr;
+        if(m.find(key)!=m.end()) {
+            newnode = m[key];
+            newnode->val=value;
+            deleteNode(newnode);
         }
-
-        if(m.size() == cap){
-            m.erase(tail -> prev -> key);
-            deleteNode(tail -> prev);
+        else {
+            newnode = new Node(key, value);
+            m[key]=newnode;
         }
-
-        addNode(new Node(key, value));
-        m[key] = head -> next;
+        addNode(newnode);
+        if(m.size()>cap) {
+            auto cur=tail->key;
+            deleteNode(tail);
+            delete(m[cur]);
+            m.erase(cur);
+        }
     }
 };
 
