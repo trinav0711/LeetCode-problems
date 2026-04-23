@@ -73,6 +73,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0739-daily-temperatures](https://github.com/trinav0711/LeetCode-problems/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/trinav0711/LeetCode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/trinav0711/LeetCode-problems/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/trinav0711/LeetCode-problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/trinav0711/LeetCode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
@@ -399,6 +400,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0130-surrounded-regions](https://github.com/trinav0711/LeetCode-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/trinav0711/LeetCode-problems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/trinav0711/LeetCode-problems/tree/master/0289-game-of-life) |
+| [0994-rotting-oranges](https://github.com/trinav0711/LeetCode-problems/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/trinav0711/LeetCode-problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Union Find
@@ -523,6 +525,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0547-number-of-provinces](https://github.com/trinav0711/LeetCode-problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/trinav0711/LeetCode-problems/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/trinav0711/LeetCode-problems/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/trinav0711/LeetCode-problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
