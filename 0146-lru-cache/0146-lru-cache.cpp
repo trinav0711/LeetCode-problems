@@ -1,79 +1,65 @@
+class Node {
+public:
+    int key, value;
+    Node *prev, *next;
+    Node(int k, int v): key{k}, value{v}, prev{nullptr}, next{nullptr} {}
+};
+
 class LRUCache {
-    class Node{
-        public: 
-            int key;
-            int val;
-            Node* prev;
-            Node* next;
-
-            Node(int key, int val) : key(key), val(val) {
-                prev=next=nullptr;
-            }
-    };
-
-    Node* head;
-    Node* tail;
-
+private:
     int cap;
+    Node *head, *tail;
     unordered_map<int, Node*> m;
 
+    // Helper: Always inserts right after head (Most Recently Used)
+    void insertAfterHead(Node* node) {
+        node->next = head->next;
+        node->next->prev = node;
+        head->next = node;
+        node->prev = head;
+    }
+
+    // Helper: Disconnects a node from its current neighbors
+    void removeNode(Node* node) {
+        node->prev->next = node->next;
+        node->next->prev = node->prev;
+    }
+
 public:
-    LRUCache(int capacity): cap(capacity), head(nullptr), tail(nullptr) {}
-
-    void addNode(Node* newnode){
-        m[newnode->key]=newnode;
-        if(!head) {
-            head = tail = newnode;
-            return;
-        }
-        newnode->next=head;
-        head->prev=newnode;
-        head=newnode;
+    LRUCache(int cap) : cap{cap} {
+        head = new Node(-1, -1);
+        tail = new Node(-1, -1);
+        head->next = tail;
+        tail->prev = head;
     }
 
-    void deleteNode(Node* delnode){
-        if(tail==delnode)
-            tail=delnode->prev;
-        else
-            delnode->next->prev=delnode->prev;
-        if(head==delnode)
-            head=delnode->next;
-        else
-            delnode->prev->next=delnode->next;
-    }
-    
     int get(int key) {
-        if(m.find(key)==m.end())
-            return -1;
-        deleteNode(m[key]);
-        addNode(m[key]);
-        return m[key]->val;
+        if (m.find(key) == m.end()) return -1;
+        
+        Node* node = m[key];
+        removeNode(node);      // Take it out of its current spot
+        insertAfterHead(node); // Move it to the front
+        return node->value;
     }
-    
+
     void put(int key, int value) {
-        Node* newnode = nullptr;
-        if(m.find(key)!=m.end()) {
-            newnode = m[key];
-            newnode->val=value;
-            deleteNode(newnode);
-        }
-        else {
-            newnode = new Node(key, value);
-            m[key]=newnode;
-        }
-        addNode(newnode);
-        if(m.size()>cap) {
-            auto cur=tail->key;
-            deleteNode(tail);
-            delete(m[cur]);
-            m.erase(cur);
+        if (m.find(key) != m.end()) {
+            // Key exists: Update value and move to front
+            Node* existing = m[key];
+            existing->value = value;
+            removeNode(existing);
+            insertAfterHead(existing);
+        } else {
+            // Key is new: Check capacity first
+            if (m.size() == cap) {
+                Node* lru = tail->prev; // Node before tail is the Least Recently Used
+                m.erase(lru->key);
+                removeNode(lru);
+                delete lru;
+            }
+            Node* newNode = new Node(key, value);
+            m[key] = newNode;
+            insertAfterHead(newNode);
         }
     }
 };
-
-/**
- * Your LRUCache object will be instantiated and called as such:
- * LRUCache* obj = new LRUCache(capacity);
- * int param_1 = obj->get(key);
- * obj->put(key,value);
- */
