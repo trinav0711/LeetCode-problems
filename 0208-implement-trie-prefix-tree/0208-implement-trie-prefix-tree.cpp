@@ -1,50 +1,42 @@
 class Trie {
 private:
     struct Node {
-        bool isEnd;
         Node* arr[26];
+        bool isEnd;
 
-        Node() {
-            isEnd=false;
-            for(int i=0;i<26;++i)
+        Node(): isEnd{false} {
+            for(int i=0;i<sizeof(arr)/sizeof(decltype(*arr));++i)
                 arr[i]=nullptr;
         }
     };
-    
+
     Node* root;
+    
 public:
-    Trie() {
-        root = new Node();
-    }
+    Trie(): root{new Node()} {}
     
     void insert(string word) {
-        Node* cur=root;
+        auto itr=root;
         for(char c:word) {
-            if(cur->arr[c-'a']==nullptr)
-                cur->arr[c-'a'] = new Node();
-            cur=cur->arr[c-'a'];
+            if(itr->arr[c-'a']==nullptr)
+                itr->arr[c-'a'] = new Node();
+            itr=itr->arr[c-'a'];
         }
-        cur->isEnd=true;
+        itr->isEnd=true;
     }
     
-    bool search(string word) {
-        Node* cur=root;
+    bool search(string word, bool prefix=false) {
+        auto itr=root;
         for(char c:word) {
-            if(cur->arr[c-'a']==nullptr)
+            if(itr->arr[c-'a']==nullptr)
                 return false;
-            cur=cur->arr[c-'a'];
+            itr=itr->arr[c-'a'];
         }
-        return cur->isEnd;
+        return prefix || itr->isEnd;
     }
     
     bool startsWith(string prefix) {
-        Node* cur=root;
-        for(char c:prefix) {
-            if(cur->arr[c-'a']==nullptr)
-                return false;
-            cur=cur->arr[c-'a'];
-        }
-        return true;
+        return search(prefix, true);
     }
 };
 
