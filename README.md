@@ -94,6 +94,7 @@ LeetCode problems solved to demonstrate and track progress
 | [2462-total-cost-to-hire-k-workers](https://github.com/trinav0711/LeetCode-problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/trinav0711/LeetCode-problems/tree/master/2542-maximum-subsequence-score) |
 | [3225-maximum-score-from-grid-operations](https://github.com/trinav0711/LeetCode-problems/tree/master/3225-maximum-score-from-grid-operations) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trinav0711/LeetCode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -183,6 +184,7 @@ LeetCode problems solved to demonstrate and track progress
 | [2215-find-the-difference-of-two-arrays](https://github.com/trinav0711/LeetCode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/trinav0711/LeetCode-problems/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/2352-equal-row-and-column-pairs) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trinav0711/LeetCode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -222,6 +224,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1071-greatest-common-divisor-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trinav0711/LeetCode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -563,6 +566,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1448-count-good-nodes-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/trinav0711/LeetCode-problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/trinav0711/LeetCode-problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trinav0711/LeetCode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
 | ------- |
@@ -704,4 +708,8 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/0216-combination-sum-iii) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trinav0711/LeetCode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
