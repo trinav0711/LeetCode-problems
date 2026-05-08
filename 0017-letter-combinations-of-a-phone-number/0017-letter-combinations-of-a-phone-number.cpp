@@ -2,7 +2,7 @@ class Solution {
 private:
     unordered_map<char, vector<char>> m;
     vector<string> ans;
-    void getOrder(string digits, int idx, string& cur) {
+    void getOrder(string& digits, int idx, string& cur) {
         if(idx>=digits.size())
             ans.push_back(cur);
         int num=digits[idx]-'0';
