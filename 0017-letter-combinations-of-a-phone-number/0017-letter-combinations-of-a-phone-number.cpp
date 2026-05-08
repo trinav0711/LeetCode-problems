@@ -2,13 +2,13 @@ class Solution {
 private:
     unordered_map<char, vector<char>> m;
     vector<string> ans;
-    void getOrder(string digits, int idx, string cur) {
-        for(char c:m[digits[idx]-'0']) {
+    void getOrder(string digits, int idx, string& cur) {
+        if(idx>=digits.size())
+            ans.push_back(cur);
+        int num=digits[idx]-'0';
+        for(char c:m[num]) {
             cur.push_back(c);
-            if(idx==digits.size()-1)
-                ans.push_back(cur);
-            else
-                getOrder(digits, idx+1, cur);
+            getOrder(digits, idx+1, cur);
             cur.pop_back();
         }
     }
