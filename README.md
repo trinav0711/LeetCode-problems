@@ -69,6 +69,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0399-evaluate-division](https://github.com/trinav0711/LeetCode-problems/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/trinav0711/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/trinav0711/LeetCode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/trinav0711/LeetCode-problems/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/trinav0711/LeetCode-problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/trinav0711/LeetCode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -142,6 +143,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0274-h-index](https://github.com/trinav0711/LeetCode-problems/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/trinav0711/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/trinav0711/LeetCode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/trinav0711/LeetCode-problems/tree/master/0502-ipo) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -268,6 +270,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0334-increasing-triplet-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/trinav0711/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/trinav0711/LeetCode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/trinav0711/LeetCode-problems/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/trinav0711/LeetCode-problems/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/trinav0711/LeetCode-problems/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/trinav0711/LeetCode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -694,6 +697,7 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/trinav0711/LeetCode-problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0502-ipo](https://github.com/trinav0711/LeetCode-problems/tree/master/0502-ipo) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/trinav0711/LeetCode-problems/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/trinav0711/LeetCode-problems/tree/master/2462-total-cost-to-hire-k-workers) |
