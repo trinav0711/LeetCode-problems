@@ -53,6 +53,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0198-house-robber](https://github.com/trinav0711/LeetCode-problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/trinav0711/LeetCode-problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
@@ -330,6 +331,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0205-isomorphic-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/trinav0711/LeetCode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/trinav0711/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/trinav0711/LeetCode-problems/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -354,6 +356,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0139-word-break](https://github.com/trinav0711/LeetCode-problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/trinav0711/LeetCode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0212-word-search-ii) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
 ## String Matching
 |  |
@@ -434,6 +437,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0074-search-a-2d-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/trinav0711/LeetCode-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/trinav0711/LeetCode-problems/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/trinav0711/LeetCode-problems/tree/master/0289-game-of-life) |
 | [0994-rotting-oranges](https://github.com/trinav0711/LeetCode-problems/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -715,6 +719,7 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0077-combinations](https://github.com/trinav0711/LeetCode-problems/tree/master/0077-combinations) |
+| [0212-word-search-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/0216-combination-sum-iii) |
 ## Number Theory
 |  |
