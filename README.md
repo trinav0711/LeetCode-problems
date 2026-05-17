@@ -35,6 +35,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/trinav0711/LeetCode-problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/trinav0711/LeetCode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trinav0711/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -247,6 +248,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0070-climbing-stairs](https://github.com/trinav0711/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/trinav0711/LeetCode-problems/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/trinav0711/LeetCode-problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/trinav0711/LeetCode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trinav0711/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
