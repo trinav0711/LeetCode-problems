@@ -118,6 +118,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0141-linked-list-cycle](https://github.com/trinav0711/LeetCode-problems/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/trinav0711/LeetCode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/trinav0711/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0202-happy-number) |
@@ -175,6 +176,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0141-linked-list-cycle](https://github.com/trinav0711/LeetCode-problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/trinav0711/LeetCode-problems/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/trinav0711/LeetCode-problems/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/trinav0711/LeetCode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/trinav0711/LeetCode-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/0205-isomorphic-strings) |
@@ -478,6 +480,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0141-linked-list-cycle](https://github.com/trinav0711/LeetCode-problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/trinav0711/LeetCode-problems/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/trinav0711/LeetCode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
