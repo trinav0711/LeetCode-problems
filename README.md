@@ -236,6 +236,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0202-happy-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/trinav0711/LeetCode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/trinav0711/LeetCode-problems/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0263-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/trinav0711/LeetCode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
