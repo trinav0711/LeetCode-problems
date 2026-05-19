@@ -235,6 +235,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0189-rotate-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/trinav0711/LeetCode-problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/trinav0711/LeetCode-problems/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/trinav0711/LeetCode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
@@ -385,6 +386,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0054-spiral-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/trinav0711/LeetCode-problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/trinav0711/LeetCode-problems/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/trinav0711/LeetCode-problems/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/trinav0711/LeetCode-problems/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/trinav0711/LeetCode-problems/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/2352-equal-row-and-column-pairs) |
@@ -780,5 +782,6 @@ LeetCode problems solved to demonstrate and track progress
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/trinav0711/LeetCode-problems/tree/master/0258-add-digits) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trinav0711/LeetCode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
