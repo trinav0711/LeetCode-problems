@@ -485,6 +485,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0146-lru-cache](https://github.com/trinav0711/LeetCode-problems/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/trinav0711/LeetCode-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/trinav0711/LeetCode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -496,6 +497,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0021-merge-two-sorted-lists](https://github.com/trinav0711/LeetCode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/trinav0711/LeetCode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/trinav0711/LeetCode-problems/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/trinav0711/LeetCode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0394-decode-string) |
 ## Tree
