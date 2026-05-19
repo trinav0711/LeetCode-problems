@@ -234,6 +234,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0172-factorial-trailing-zeroes](https://github.com/trinav0711/LeetCode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/trinav0711/LeetCode-problems/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/trinav0711/LeetCode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
@@ -510,6 +511,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0050-powx-n](https://github.com/trinav0711/LeetCode-problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/trinav0711/LeetCode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/trinav0711/LeetCode-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0394-decode-string) |
 ## Tree
@@ -687,6 +689,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0191-number-of-1-bits](https://github.com/trinav0711/LeetCode-problems/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/trinav0711/LeetCode-problems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/trinav0711/LeetCode-problems/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/trinav0711/LeetCode-problems/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/trinav0711/LeetCode-problems/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/trinav0711/LeetCode-problems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Graph Theory
