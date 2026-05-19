@@ -58,6 +58,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0212-word-search-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/trinav0711/LeetCode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/trinav0711/LeetCode-problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/trinav0711/LeetCode-problems/tree/master/0238-product-of-array-except-self) |
@@ -144,6 +145,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0148-sort-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/trinav0711/LeetCode-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/trinav0711/LeetCode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/trinav0711/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/trinav0711/LeetCode-problems/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/trinav0711/LeetCode-problems/tree/master/0295-find-median-from-data-stream) |
@@ -182,6 +184,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0202-happy-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/trinav0711/LeetCode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/trinav0711/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/trinav0711/LeetCode-problems/tree/master/0290-word-pattern) |
