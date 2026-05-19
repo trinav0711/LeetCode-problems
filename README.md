@@ -345,6 +345,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0211-design-add-and-search-words-data-structure](https://github.com/trinav0711/LeetCode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/trinav0711/LeetCode-problems/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/trinav0711/LeetCode-problems/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/trinav0711/LeetCode-problems/tree/master/0383-ransom-note) |
@@ -529,6 +530,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0226-invert-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -564,6 +566,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0226-invert-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/trinav0711/LeetCode-problems/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -634,6 +637,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0226-invert-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -759,6 +763,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0077-combinations](https://github.com/trinav0711/LeetCode-problems/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 ## Number Theory
 |  |
 | ------- |
