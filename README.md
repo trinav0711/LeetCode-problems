@@ -124,6 +124,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/trinav0711/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/trinav0711/LeetCode-problems/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/trinav0711/LeetCode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -403,6 +404,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0173-binary-search-tree-iterator](https://github.com/trinav0711/LeetCode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/trinav0711/LeetCode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/trinav0711/LeetCode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/trinav0711/LeetCode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/trinav0711/LeetCode-problems/tree/master/0739-daily-temperatures) |
@@ -495,6 +497,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0160-intersection-of-two-linked-lists](https://github.com/trinav0711/LeetCode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/trinav0711/LeetCode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -507,6 +510,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0050-powx-n](https://github.com/trinav0711/LeetCode-problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/trinav0711/LeetCode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0394-decode-string) |
 ## Tree
 |  |
