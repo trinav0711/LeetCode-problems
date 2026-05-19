@@ -299,6 +299,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0173-binary-search-tree-iterator](https://github.com/trinav0711/LeetCode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/trinav0711/LeetCode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0232-implement-queue-using-stacks](https://github.com/trinav0711/LeetCode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/trinav0711/LeetCode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/trinav0711/LeetCode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/trinav0711/LeetCode-problems/tree/master/0901-online-stock-span) |
@@ -399,6 +400,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0150-evaluate-reverse-polish-notation](https://github.com/trinav0711/LeetCode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/trinav0711/LeetCode-problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/trinav0711/LeetCode-problems/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/trinav0711/LeetCode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/trinav0711/LeetCode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/trinav0711/LeetCode-problems/tree/master/0739-daily-temperatures) |
@@ -721,6 +723,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/trinav0711/LeetCode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/trinav0711/LeetCode-problems/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/trinav0711/LeetCode-problems/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
