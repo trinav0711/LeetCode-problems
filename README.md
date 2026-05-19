@@ -464,6 +464,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/trinav0711/LeetCode-problems/tree/master/0175-combine-two-tables) |
 | [1757-recyclable-and-low-fat-products](https://github.com/trinav0711/LeetCode-problems/tree/master/1757-recyclable-and-low-fat-products) |
 ## Linked List
 |  |
