@@ -440,6 +440,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0209-minimum-size-subarray-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/trinav0711/LeetCode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/trinav0711/LeetCode-problems/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/trinav0711/LeetCode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/trinav0711/LeetCode-problems/tree/master/0875-koko-eating-bananas) |
@@ -756,6 +757,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/trinav0711/LeetCode-problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/trinav0711/LeetCode-problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Combinatorics
 |  |
