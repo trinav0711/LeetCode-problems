@@ -752,6 +752,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0342-power-of-four](https://github.com/trinav0711/LeetCode-problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/trinav0711/LeetCode-problems/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/trinav0711/LeetCode-problems/tree/master/0401-binary-watch) |
+| [0461-hamming-distance](https://github.com/trinav0711/LeetCode-problems/tree/master/0461-hamming-distance) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/trinav0711/LeetCode-problems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Graph Theory
 |  |
