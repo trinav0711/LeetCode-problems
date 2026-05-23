@@ -261,6 +261,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0342-power-of-four](https://github.com/trinav0711/LeetCode-problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/trinav0711/LeetCode-problems/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/trinav0711/LeetCode-problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0412-fizz-buzz](https://github.com/trinav0711/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -387,6 +388,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0392-is-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/trinav0711/LeetCode-problems/tree/master/0399-evaluate-division) |
+| [0412-fizz-buzz](https://github.com/trinav0711/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [0433-minimum-genetic-mutation](https://github.com/trinav0711/LeetCode-problems/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/trinav0711/LeetCode-problems/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/trinav0711/LeetCode-problems/tree/master/0649-dota2-senate) |
@@ -418,6 +420,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0068-text-justification](https://github.com/trinav0711/LeetCode-problems/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/trinav0711/LeetCode-problems/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/trinav0711/LeetCode-problems/tree/master/0289-game-of-life) |
+| [0412-fizz-buzz](https://github.com/trinav0711/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/trinav0711/LeetCode-problems/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/2390-removing-stars-from-a-string) |
