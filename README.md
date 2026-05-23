@@ -75,6 +75,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/trinav0711/LeetCode-problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/trinav0711/LeetCode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/trinav0711/LeetCode-problems/tree/master/0399-evaluate-division) |
+| [0414-third-maximum-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/trinav0711/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/trinav0711/LeetCode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/trinav0711/LeetCode-problems/tree/master/0502-ipo) |
@@ -161,6 +162,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0349-intersection-of-two-arrays](https://github.com/trinav0711/LeetCode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/trinav0711/LeetCode-problems/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/trinav0711/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/trinav0711/LeetCode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/trinav0711/LeetCode-problems/tree/master/0502-ipo) |
