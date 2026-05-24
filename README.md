@@ -84,6 +84,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0502-ipo](https://github.com/trinav0711/LeetCode-problems/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/trinav0711/LeetCode-problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/trinav0711/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/trinav0711/LeetCode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/trinav0711/LeetCode-problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/trinav0711/LeetCode-problems/tree/master/0735-asteroid-collision) |
@@ -171,6 +172,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/trinav0711/LeetCode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/trinav0711/LeetCode-problems/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/trinav0711/LeetCode-problems/tree/master/0502-ipo) |
+| [0645-set-mismatch](https://github.com/trinav0711/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -216,6 +218,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0389-find-the-difference](https://github.com/trinav0711/LeetCode-problems/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/trinav0711/LeetCode-problems/tree/master/0433-minimum-genetic-mutation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/trinav0711/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/trinav0711/LeetCode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -755,6 +758,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0389-find-the-difference](https://github.com/trinav0711/LeetCode-problems/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/trinav0711/LeetCode-problems/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/trinav0711/LeetCode-problems/tree/master/0461-hamming-distance) |
+| [0645-set-mismatch](https://github.com/trinav0711/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/trinav0711/LeetCode-problems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Graph Theory
 |  |
