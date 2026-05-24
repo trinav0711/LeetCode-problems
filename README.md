@@ -80,6 +80,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/trinav0711/LeetCode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/trinav0711/LeetCode-problems/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/trinav0711/LeetCode-problems/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/trinav0711/LeetCode-problems/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/trinav0711/LeetCode-problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0643-maximum-average-subarray-i) |
