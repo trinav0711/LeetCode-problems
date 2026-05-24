@@ -271,6 +271,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0380-insert-delete-getrandom-o1](https://github.com/trinav0711/LeetCode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/trinav0711/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/0415-add-strings) |
+| [0492-construct-the-rectangle](https://github.com/trinav0711/LeetCode-problems/tree/master/0492-construct-the-rectangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
