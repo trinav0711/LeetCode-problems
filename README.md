@@ -82,6 +82,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0455-assign-cookies](https://github.com/trinav0711/LeetCode-problems/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/trinav0711/LeetCode-problems/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/trinav0711/LeetCode-problems/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/trinav0711/LeetCode-problems/tree/master/0495-teemo-attacking) |
 | [0502-ipo](https://github.com/trinav0711/LeetCode-problems/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/trinav0711/LeetCode-problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0643-maximum-average-subarray-i) |
@@ -442,6 +443,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0289-game-of-life](https://github.com/trinav0711/LeetCode-problems/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/trinav0711/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/trinav0711/LeetCode-problems/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/trinav0711/LeetCode-problems/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/2390-removing-stars-from-a-string) |
