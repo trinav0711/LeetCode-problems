@@ -282,6 +282,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0412-fizz-buzz](https://github.com/trinav0711/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/trinav0711/LeetCode-problems/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/trinav0711/LeetCode-problems/tree/master/0504-base-7) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -416,6 +417,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0443-string-compression](https://github.com/trinav0711/LeetCode-problems/tree/master/0443-string-compression) |
 | [0482-license-key-formatting](https://github.com/trinav0711/LeetCode-problems/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/trinav0711/LeetCode-problems/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/trinav0711/LeetCode-problems/tree/master/0504-base-7) |
 | [0649-dota2-senate](https://github.com/trinav0711/LeetCode-problems/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/1143-longest-common-subsequence) |
