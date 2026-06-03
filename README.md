@@ -83,6 +83,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0463-island-perimeter](https://github.com/trinav0711/LeetCode-problems/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/trinav0711/LeetCode-problems/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/trinav0711/LeetCode-problems/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/trinav0711/LeetCode-problems/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/trinav0711/LeetCode-problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0643-maximum-average-subarray-i) |
@@ -220,6 +221,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0389-find-the-difference](https://github.com/trinav0711/LeetCode-problems/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/trinav0711/LeetCode-problems/tree/master/0433-minimum-genetic-mutation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/trinav0711/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/trinav0711/LeetCode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
@@ -465,6 +467,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0232-implement-queue-using-stacks](https://github.com/trinav0711/LeetCode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/trinav0711/LeetCode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/trinav0711/LeetCode-problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/trinav0711/LeetCode-problems/tree/master/0901-online-stock-span) |
@@ -474,6 +477,7 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/trinav0711/LeetCode-problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/trinav0711/LeetCode-problems/tree/master/0901-online-stock-span) |
 ## Binary Search
