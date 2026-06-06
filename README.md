@@ -113,6 +113,7 @@ LeetCode problems solved to demonstrate and track progress
 | [2352-equal-row-and-column-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/trinav0711/LeetCode-problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/trinav0711/LeetCode-problems/tree/master/2542-maximum-subsequence-score) |
+| [2574-left-and-right-sum-differences](https://github.com/trinav0711/LeetCode-problems/tree/master/2574-left-and-right-sum-differences) |
 | [3225-maximum-score-from-grid-operations](https://github.com/trinav0711/LeetCode-problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trinav0711/LeetCode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Two Pointers
@@ -377,6 +378,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0724-find-pivot-index](https://github.com/trinav0711/LeetCode-problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/trinav0711/LeetCode-problems/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/trinav0711/LeetCode-problems/tree/master/2574-left-and-right-sum-differences) |
 | [3225-maximum-score-from-grid-operations](https://github.com/trinav0711/LeetCode-problems/tree/master/3225-maximum-score-from-grid-operations) |
 ## String
 |  |
