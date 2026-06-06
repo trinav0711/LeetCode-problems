@@ -284,6 +284,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0415-add-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/trinav0711/LeetCode-problems/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/trinav0711/LeetCode-problems/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
