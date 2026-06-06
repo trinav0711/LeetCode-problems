@@ -87,6 +87,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0496-next-greater-element-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/trinav0711/LeetCode-problems/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/trinav0711/LeetCode-problems/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/trinav0711/LeetCode-problems/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/trinav0711/LeetCode-problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/trinav0711/LeetCode-problems/tree/master/0645-set-mismatch) |
@@ -177,6 +178,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/trinav0711/LeetCode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/trinav0711/LeetCode-problems/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/trinav0711/LeetCode-problems/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/trinav0711/LeetCode-problems/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/trinav0711/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
@@ -857,6 +859,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0295-find-median-from-data-stream](https://github.com/trinav0711/LeetCode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/trinav0711/LeetCode-problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/trinav0711/LeetCode-problems/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/trinav0711/LeetCode-problems/tree/master/0506-relative-ranks) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/trinav0711/LeetCode-problems/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/trinav0711/LeetCode-problems/tree/master/2462-total-cost-to-hire-k-workers) |
