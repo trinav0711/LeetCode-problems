@@ -227,6 +227,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0387-first-unique-character-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/trinav0711/LeetCode-problems/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/trinav0711/LeetCode-problems/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/trinav0711/LeetCode-problems/tree/master/0500-keyboard-row) |
@@ -426,6 +427,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0415-add-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/0415-add-strings) |
 | [0433-minimum-genetic-mutation](https://github.com/trinav0711/LeetCode-problems/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0434-number-of-segments-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/trinav0711/LeetCode-problems/tree/master/0443-string-compression) |
 | [0482-license-key-formatting](https://github.com/trinav0711/LeetCode-problems/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/trinav0711/LeetCode-problems/tree/master/0500-keyboard-row) |
@@ -530,6 +532,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0076-minimum-window-substring](https://github.com/trinav0711/LeetCode-problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/trinav0711/LeetCode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
