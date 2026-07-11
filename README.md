@@ -32,6 +32,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0068-text-justification](https://github.com/trinav0711/LeetCode-problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/trinav0711/LeetCode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/trinav0711/LeetCode-problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -408,6 +409,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0071-simplify-path](https://github.com/trinav0711/LeetCode-problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/trinav0711/LeetCode-problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/trinav0711/LeetCode-problems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/trinav0711/LeetCode-problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/trinav0711/LeetCode-problems/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/trinav0711/LeetCode-problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0151-reverse-words-in-a-string) |
@@ -551,6 +553,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0064-minimum-path-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/trinav0711/LeetCode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/trinav0711/LeetCode-problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/trinav0711/LeetCode-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/trinav0711/LeetCode-problems/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0212-word-search-ii) |
@@ -654,6 +657,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/trinav0711/LeetCode-problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0100-same-tree) |
@@ -898,6 +902,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0039-combination-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/trinav0711/LeetCode-problems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/trinav0711/LeetCode-problems/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/trinav0711/LeetCode-problems/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/0257-binary-tree-paths) |
