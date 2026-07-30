@@ -7,6 +7,7 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/trinav0711/LeetCode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/trinav0711/LeetCode-problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0015-3sum) |
@@ -251,6 +252,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/trinav0711/LeetCode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -516,6 +518,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/trinav0711/LeetCode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/trinav0711/LeetCode-problems/tree/master/0035-search-insert-position) |
