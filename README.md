@@ -211,6 +211,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0076-minimum-window-substring](https://github.com/trinav0711/LeetCode-problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/trinav0711/LeetCode-problems/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/trinav0711/LeetCode-problems/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/trinav0711/LeetCode-problems/tree/master/0138-copy-list-with-random-pointer) |
@@ -419,6 +420,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0076-minimum-window-substring](https://github.com/trinav0711/LeetCode-problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/trinav0711/LeetCode-problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/trinav0711/LeetCode-problems/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/trinav0711/LeetCode-problems/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/trinav0711/LeetCode-problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/trinav0711/LeetCode-problems/tree/master/0168-excel-sheet-column-title) |
@@ -721,6 +723,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0111-minimum-depth-of-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0127-word-ladder](https://github.com/trinav0711/LeetCode-problems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/trinav0711/LeetCode-problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/trinav0711/LeetCode-problems/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/trinav0711/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
