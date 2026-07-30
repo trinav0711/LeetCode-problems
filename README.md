@@ -82,6 +82,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0380-insert-delete-getrandom-o1](https://github.com/trinav0711/LeetCode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/trinav0711/LeetCode-problems/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0414-third-maximum-number) |
+| [0427-construct-quad-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/trinav0711/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/trinav0711/LeetCode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -258,6 +259,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0190-reverse-bits](https://github.com/trinav0711/LeetCode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/trinav0711/LeetCode-problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0427-construct-quad-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0427-construct-quad-tree) |
 ## Counting
 |  |
 | ------- |
@@ -563,6 +565,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0200-number-of-islands](https://github.com/trinav0711/LeetCode-problems/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/trinav0711/LeetCode-problems/tree/master/0289-game-of-life) |
+| [0427-construct-quad-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/trinav0711/LeetCode-problems/tree/master/0463-island-perimeter) |
 | [0909-snakes-and-ladders](https://github.com/trinav0711/LeetCode-problems/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/trinav0711/LeetCode-problems/tree/master/0994-rotting-oranges) |
@@ -649,6 +652,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/trinav0711/LeetCode-problems/tree/master/0404-sum-of-left-leaves) |
+| [0427-construct-quad-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0427-construct-quad-tree) |
 | [0437-path-sum-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
