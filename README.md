@@ -68,6 +68,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0216-combination-sum-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/trinav0711/LeetCode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/trinav0711/LeetCode-problems/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/trinav0711/LeetCode-problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/trinav0711/LeetCode-problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0268-missing-number) |
@@ -337,6 +338,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0139-word-break](https://github.com/trinav0711/LeetCode-problems/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/trinav0711/LeetCode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/trinav0711/LeetCode-problems/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/trinav0711/LeetCode-problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/trinav0711/LeetCode-problems/tree/master/0338-counting-bits) |
@@ -582,6 +584,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0130-surrounded-regions](https://github.com/trinav0711/LeetCode-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/trinav0711/LeetCode-problems/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/trinav0711/LeetCode-problems/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/trinav0711/LeetCode-problems/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0427-construct-quad-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0427-construct-quad-tree) |
