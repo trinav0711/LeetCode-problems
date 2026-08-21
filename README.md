@@ -304,6 +304,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0172-factorial-trailing-zeroes](https://github.com/trinav0711/LeetCode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/trinav0711/LeetCode-problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/trinav0711/LeetCode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/trinav0711/LeetCode-problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0263-ugly-number) |
@@ -454,6 +455,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0208-implement-trie-prefix-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/trinav0711/LeetCode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/trinav0711/LeetCode-problems/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/trinav0711/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/trinav0711/LeetCode-problems/tree/master/0290-word-pattern) |
@@ -527,6 +529,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0150-evaluate-reverse-polish-notation](https://github.com/trinav0711/LeetCode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/trinav0711/LeetCode-problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/trinav0711/LeetCode-problems/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/trinav0711/LeetCode-problems/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/trinav0711/LeetCode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/trinav0711/LeetCode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
@@ -655,6 +658,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0050-powx-n](https://github.com/trinav0711/LeetCode-problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/trinav0711/LeetCode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/trinav0711/LeetCode-problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/trinav0711/LeetCode-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/trinav0711/LeetCode-problems/tree/master/0326-power-of-three) |
