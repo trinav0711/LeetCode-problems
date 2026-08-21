@@ -265,6 +265,7 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/trinav0711/LeetCode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/trinav0711/LeetCode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/trinav0711/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/trinav0711/LeetCode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -624,6 +625,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0002-add-two-numbers](https://github.com/trinav0711/LeetCode-problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/trinav0711/LeetCode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/trinav0711/LeetCode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/trinav0711/LeetCode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -893,6 +895,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/trinav0711/LeetCode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0148-sort-list) |
 ## Geometry
 |  |
@@ -925,6 +928,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/trinav0711/LeetCode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/trinav0711/LeetCode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/trinav0711/LeetCode-problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -974,4 +978,8 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/trinav0711/LeetCode-problems/tree/master/0918-maximum-sum-circular-subarray) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/trinav0711/LeetCode-problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
