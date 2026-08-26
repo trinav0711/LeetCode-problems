@@ -101,6 +101,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0500-keyboard-row](https://github.com/trinav0711/LeetCode-problems/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/trinav0711/LeetCode-problems/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/trinav0711/LeetCode-problems/tree/master/0506-relative-ranks) |
+| [0518-coin-change-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/trinav0711/LeetCode-problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/trinav0711/LeetCode-problems/tree/master/0645-set-mismatch) |
@@ -358,6 +359,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0410-split-array-largest-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/trinav0711/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/trinav0711/LeetCode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/trinav0711/LeetCode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/trinav0711/LeetCode-problems/tree/master/0790-domino-and-tromino-tiling) |
@@ -994,4 +996,12 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
