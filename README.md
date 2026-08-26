@@ -702,6 +702,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0450-delete-node-in-a-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/trinav0711/LeetCode-problems/tree/master/0872-leaf-similar-trees) |
@@ -744,6 +745,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0463-island-perimeter](https://github.com/trinav0711/LeetCode-problems/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/trinav0711/LeetCode-problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/trinav0711/LeetCode-problems/tree/master/0841-keys-and-rooms) |
@@ -823,6 +825,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0450-delete-node-in-a-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/trinav0711/LeetCode-problems/tree/master/0872-leaf-similar-trees) |
@@ -996,6 +999,7 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
 ## Knapsack Problem
 |  |
 | ------- |
