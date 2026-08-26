@@ -7,7 +7,6 @@ public:
             for(int i=coin;i<=amount;++i)
                 dp[i]+=dp[i-coin];
         }
-        for(auto x:dp) cout<<x<<" ";
         return dp.back();
     }
 };
