@@ -24,6 +24,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0046-permutations](https://github.com/trinav0711/LeetCode-problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/trinav0711/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/trinav0711/LeetCode-problems/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/trinav0711/LeetCode-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/trinav0711/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0055-jump-game) |
@@ -990,6 +991,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0039-combination-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/trinav0711/LeetCode-problems/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/trinav0711/LeetCode-problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/trinav0711/LeetCode-problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/trinav0711/LeetCode-problems/tree/master/0078-subsets) |
@@ -1037,4 +1039,8 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/trinav0711/LeetCode-problems/tree/master/0973-k-closest-points-to-origin) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/trinav0711/LeetCode-problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
