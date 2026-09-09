@@ -762,6 +762,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0543-diameter-of-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/trinav0711/LeetCode-problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0743-network-delay-time](https://github.com/trinav0711/LeetCode-problems/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/trinav0711/LeetCode-problems/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/trinav0711/LeetCode-problems/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -796,6 +797,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/trinav0711/LeetCode-problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0743-network-delay-time](https://github.com/trinav0711/LeetCode-problems/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/trinav0711/LeetCode-problems/tree/master/0841-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/trinav0711/LeetCode-problems/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/trinav0711/LeetCode-problems/tree/master/0994-rotting-oranges) |
@@ -900,6 +902,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0210-course-schedule-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/trinav0711/LeetCode-problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/trinav0711/LeetCode-problems/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/trinav0711/LeetCode-problems/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/trinav0711/LeetCode-problems/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/trinav0711/LeetCode-problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Memoization
@@ -913,6 +916,7 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/trinav0711/LeetCode-problems/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/trinav0711/LeetCode-problems/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -968,6 +972,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0502-ipo](https://github.com/trinav0711/LeetCode-problems/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/trinav0711/LeetCode-problems/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/trinav0711/LeetCode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/trinav0711/LeetCode-problems/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/trinav0711/LeetCode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/trinav0711/LeetCode-problems/tree/master/1046-last-stone-weight) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
@@ -1043,4 +1048,8 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/trinav0711/LeetCode-problems/tree/master/0051-n-queens) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/trinav0711/LeetCode-problems/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
