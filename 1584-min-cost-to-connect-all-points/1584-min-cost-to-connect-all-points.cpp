@@ -1,6 +1,6 @@
 class Solution {
 private:
-    int manhattan_distance(vector<int>& p1, vector<int>& p2) {
+    inline int manhattan_distance(vector<int>& p1, vector<int>& p2) {
         return abs(p1[0] - p2[0]) + abs(p1[1] - p2[1]);
     }
 public:
