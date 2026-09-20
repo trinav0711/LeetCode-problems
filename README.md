@@ -394,6 +394,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0509-fibonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/trinav0711/LeetCode-problems/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/trinav0711/LeetCode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/trinav0711/LeetCode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/trinav0711/LeetCode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -423,6 +424,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0605-can-place-flowers](https://github.com/trinav0711/LeetCode-problems/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/trinav0711/LeetCode-problems/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/trinav0711/LeetCode-problems/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/trinav0711/LeetCode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/trinav0711/LeetCode-problems/tree/master/0763-partition-labels) |
 | [2542-maximum-subsequence-score](https://github.com/trinav0711/LeetCode-problems/tree/master/2542-maximum-subsequence-score) |
@@ -525,6 +527,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0567-permutation-in-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/trinav0711/LeetCode-problems/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/trinav0711/LeetCode-problems/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/trinav0711/LeetCode-problems/tree/master/0763-partition-labels) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/1143-longest-common-subsequence) |
@@ -585,6 +588,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0234-palindrome-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/trinav0711/LeetCode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/trinav0711/LeetCode-problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/trinav0711/LeetCode-problems/tree/master/0901-online-stock-span) |
@@ -1169,4 +1173,8 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/trinav0711/LeetCode-problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
