@@ -814,6 +814,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0547-number-of-provinces](https://github.com/trinav0711/LeetCode-problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/trinav0711/LeetCode-problems/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/trinav0711/LeetCode-problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/trinav0711/LeetCode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/trinav0711/LeetCode-problems/tree/master/0841-keys-and-rooms) |
@@ -852,6 +853,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trinav0711/LeetCode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/trinav0711/LeetCode-problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/trinav0711/LeetCode-problems/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/trinav0711/LeetCode-problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/trinav0711/LeetCode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/trinav0711/LeetCode-problems/tree/master/0841-keys-and-rooms) |
@@ -929,6 +931,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0200-number-of-islands](https://github.com/trinav0711/LeetCode-problems/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/trinav0711/LeetCode-problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/trinav0711/LeetCode-problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/trinav0711/LeetCode-problems/tree/master/0684-redundant-connection) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/trinav0711/LeetCode-problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/trinav0711/LeetCode-problems/tree/master/1631-path-with-minimum-effort) |
@@ -965,6 +968,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0210-course-schedule-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/trinav0711/LeetCode-problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/trinav0711/LeetCode-problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/trinav0711/LeetCode-problems/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/trinav0711/LeetCode-problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/trinav0711/LeetCode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/trinav0711/LeetCode-problems/tree/master/0841-keys-and-rooms) |
