@@ -138,6 +138,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1631-path-with-minimum-effort](https://github.com/trinav0711/LeetCode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/trinav0711/LeetCode-problems/tree/master/1732-find-the-highest-altitude) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/trinav0711/LeetCode-problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/trinav0711/LeetCode-problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2013-detect-squares](https://github.com/trinav0711/LeetCode-problems/tree/master/2013-detect-squares) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -429,6 +430,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0678-valid-parenthesis-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/trinav0711/LeetCode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/trinav0711/LeetCode-problems/tree/master/0763-partition-labels) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/trinav0711/LeetCode-problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2542-maximum-subsequence-score](https://github.com/trinav0711/LeetCode-problems/tree/master/2542-maximum-subsequence-score) |
 ## Counting Sort
 |  |
