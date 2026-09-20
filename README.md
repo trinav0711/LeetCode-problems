@@ -114,6 +114,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0621-task-scheduler](https://github.com/trinav0711/LeetCode-problems/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/trinav0711/LeetCode-problems/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/trinav0711/LeetCode-problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/trinav0711/LeetCode-problems/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/trinav0711/LeetCode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/trinav0711/LeetCode-problems/tree/master/0724-find-pivot-index) |
@@ -666,6 +667,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0417-pacific-atlantic-water-flow](https://github.com/trinav0711/LeetCode-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0427-construct-quad-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/trinav0711/LeetCode-problems/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/trinav0711/LeetCode-problems/tree/master/0695-max-area-of-island) |
 | [0909-snakes-and-ladders](https://github.com/trinav0711/LeetCode-problems/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/trinav0711/LeetCode-problems/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -815,6 +817,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0572-subtree-of-another-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/trinav0711/LeetCode-problems/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/trinav0711/LeetCode-problems/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/trinav0711/LeetCode-problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/trinav0711/LeetCode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/trinav0711/LeetCode-problems/tree/master/0841-keys-and-rooms) |
@@ -854,6 +857,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0547-number-of-provinces](https://github.com/trinav0711/LeetCode-problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/trinav0711/LeetCode-problems/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/trinav0711/LeetCode-problems/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/trinav0711/LeetCode-problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/trinav0711/LeetCode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/trinav0711/LeetCode-problems/tree/master/0841-keys-and-rooms) |
@@ -932,6 +936,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0399-evaluate-division](https://github.com/trinav0711/LeetCode-problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/trinav0711/LeetCode-problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/trinav0711/LeetCode-problems/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/trinav0711/LeetCode-problems/tree/master/0695-max-area-of-island) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/trinav0711/LeetCode-problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/trinav0711/LeetCode-problems/tree/master/1631-path-with-minimum-effort) |
