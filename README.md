@@ -379,6 +379,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0072-edit-distance](https://github.com/trinav0711/LeetCode-problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/trinav0711/LeetCode-problems/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/trinav0711/LeetCode-problems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/trinav0711/LeetCode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/trinav0711/LeetCode-problems/tree/master/0120-triangle) |
@@ -503,6 +504,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0079-word-search](https://github.com/trinav0711/LeetCode-problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/trinav0711/LeetCode-problems/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/trinav0711/LeetCode-problems/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/trinav0711/LeetCode-problems/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/trinav0711/LeetCode-problems/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/trinav0711/LeetCode-problems/tree/master/0131-palindrome-partitioning) |
