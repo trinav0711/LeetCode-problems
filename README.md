@@ -79,6 +79,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0221-maximal-square](https://github.com/trinav0711/LeetCode-problems/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/trinav0711/LeetCode-problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/trinav0711/LeetCode-problems/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/trinav0711/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/trinav0711/LeetCode-problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/trinav0711/LeetCode-problems/tree/master/0283-move-zeroes) |
@@ -664,6 +665,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0076-minimum-window-substring](https://github.com/trinav0711/LeetCode-problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/trinav0711/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/trinav0711/LeetCode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0567-permutation-in-string) |
@@ -1049,6 +1051,7 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/trinav0711/LeetCode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/trinav0711/LeetCode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/trinav0711/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/trinav0711/LeetCode-problems/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/trinav0711/LeetCode-problems/tree/master/0918-maximum-sum-circular-subarray) |
@@ -1075,6 +1078,7 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/trinav0711/LeetCode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/trinav0711/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/trinav0711/LeetCode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/trinav0711/LeetCode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/trinav0711/LeetCode-problems/tree/master/0355-design-twitter) |
@@ -1140,6 +1144,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/trinav0711/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/trinav0711/LeetCode-problems/tree/master/0918-maximum-sum-circular-subarray) |
 ## Tournament Sort
 |  |
@@ -1198,6 +1203,7 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/trinav0711/LeetCode-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/trinav0711/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
