@@ -99,6 +99,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0399-evaluate-division](https://github.com/trinav0711/LeetCode-problems/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/trinav0711/LeetCode-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0427-construct-quad-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/trinav0711/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
@@ -407,6 +408,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0338-counting-bits](https://github.com/trinav0711/LeetCode-problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/trinav0711/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0509-fibonacci-number) |
@@ -1160,6 +1162,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Knapsack Problem
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
@@ -1209,6 +1212,7 @@ LeetCode problems solved to demonstrate and track progress
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0494-target-sum) |
 ## Minimum Spanning Tree
 |  |
