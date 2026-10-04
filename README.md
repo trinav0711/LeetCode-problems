@@ -90,6 +90,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/trinav0711/LeetCode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/trinav0711/LeetCode-problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/trinav0711/LeetCode-problems/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/trinav0711/LeetCode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/trinav0711/LeetCode-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -416,6 +417,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/trinav0711/LeetCode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/trinav0711/LeetCode-problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/trinav0711/LeetCode-problems/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/trinav0711/LeetCode-problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
@@ -710,6 +712,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0212-word-search-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/trinav0711/LeetCode-problems/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/trinav0711/LeetCode-problems/tree/master/0289-game-of-life) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/trinav0711/LeetCode-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0427-construct-quad-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0427-construct-quad-tree) |
@@ -854,6 +857,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/0257-binary-tree-paths) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/trinav0711/LeetCode-problems/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/trinav0711/LeetCode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/trinav0711/LeetCode-problems/tree/master/0417-pacific-atlantic-water-flow) |
@@ -898,6 +902,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0210-course-schedule-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/trinav0711/LeetCode-problems/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/trinav0711/LeetCode-problems/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/trinav0711/LeetCode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/trinav0711/LeetCode-problems/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1025,6 +1030,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0133-clone-graph](https://github.com/trinav0711/LeetCode-problems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/trinav0711/LeetCode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/trinav0711/LeetCode-problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/trinav0711/LeetCode-problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/trinav0711/LeetCode-problems/tree/master/0684-redundant-connection) |
@@ -1039,6 +1045,7 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0070-climbing-stairs](https://github.com/trinav0711/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/trinav0711/LeetCode-problems/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 ## Shortest Path
@@ -1053,6 +1060,7 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0207-course-schedule](https://github.com/trinav0711/LeetCode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Iterator
 |  |
 | ------- |
@@ -1272,4 +1280,8 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/trinav0711/LeetCode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
