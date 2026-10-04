@@ -147,6 +147,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1631-path-with-minimum-effort](https://github.com/trinav0711/LeetCode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/trinav0711/LeetCode-problems/tree/master/1732-find-the-highest-altitude) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/trinav0711/LeetCode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/trinav0711/LeetCode-problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/trinav0711/LeetCode-problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2013-detect-squares](https://github.com/trinav0711/LeetCode-problems/tree/master/2013-detect-squares) |
@@ -240,6 +241,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/trinav0711/LeetCode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/trinav0711/LeetCode-problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/trinav0711/LeetCode-problems/tree/master/2542-maximum-subsequence-score) |
@@ -673,6 +675,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/trinav0711/LeetCode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
 | [1631-path-with-minimum-effort](https://github.com/trinav0711/LeetCode-problems/tree/master/1631-path-with-minimum-effort) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/trinav0711/LeetCode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/trinav0711/LeetCode-problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/trinav0711/LeetCode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Sliding Window
@@ -1113,6 +1116,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1046-last-stone-weight](https://github.com/trinav0711/LeetCode-problems/tree/master/1046-last-stone-weight) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
 | [1631-path-with-minimum-effort](https://github.com/trinav0711/LeetCode-problems/tree/master/1631-path-with-minimum-effort) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/trinav0711/LeetCode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2336-smallest-number-in-infinite-set](https://github.com/trinav0711/LeetCode-problems/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/trinav0711/LeetCode-problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/trinav0711/LeetCode-problems/tree/master/2542-maximum-subsequence-score) |
@@ -1264,4 +1268,8 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/trinav0711/LeetCode-problems/tree/master/0347-top-k-frequent-elements) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/trinav0711/LeetCode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
