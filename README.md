@@ -386,6 +386,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trinav0711/LeetCode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3733-minimum-time-to-complete-all-deliveries](https://github.com/trinav0711/LeetCode-problems/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -692,6 +693,7 @@ LeetCode problems solved to demonstrate and track progress
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/trinav0711/LeetCode-problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/trinav0711/LeetCode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/trinav0711/LeetCode-problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3733-minimum-time-to-complete-all-deliveries](https://github.com/trinav0711/LeetCode-problems/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 ## Sliding Window
 |  |
 | ------- |
