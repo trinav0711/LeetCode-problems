@@ -1,22 +1,17 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        if(intervals.size()==1)
-            return {{intervals[0][0], intervals[0][1]}};
-        vector<pair<int, int>> v;
-        for(vector<int> tmp : intervals)
-            v.push_back({tmp[0],tmp[1]});
-        sort(v.begin(), v.end());
+        sort(intervals.begin(), intervals.end());
         vector<vector<int>> ans;
-        int start=v[0].first, end=v[0].second;
-        for(int i=1;i<v.size();i++){
-            if(v[i].first<=end)
-                end=max(end, v[i].second);
-            else{
+        int start=intervals[0][0], end=intervals[0][1];
+        for(int i=1; i<intervals.size();++i) {
+            if(intervals[i][0]>end) {
                 ans.push_back({start, end});
-                start=v[i].first;
-                end=v[i].second;
+                start=intervals[i][0];
+                end=max(end, intervals[i][1]);
             }
+            else
+                end=max(end, intervals[i][1]);
         }
         ans.push_back({start, end});
         return ans;
