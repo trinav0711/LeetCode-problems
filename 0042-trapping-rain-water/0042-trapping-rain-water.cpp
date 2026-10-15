@@ -1,24 +1,19 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        int sum=0, left=0, right=height.size()-1;
-        int maxleft=0, maxright=0;
-        while(left<=right){
-            if(height[left]<=height[right]){
-                if(height[left]>maxleft)
-                    maxleft=height[left];
-                else
-                    sum=sum+maxleft-height[left];
-                left++;
-            }
-            else {
-                if(height[right]>maxright)
-                    maxright=height[right];
-                else
-                    sum=sum+maxright-height[right];
-                right--;
-            }
+        vector<int> dp(height.size());
+        for(int i=0, maxx=0; i<height.size();++i) {
+            maxx=max(maxx, height[i]);
+            dp[i]=maxx;
         }
-        return sum;
+        for(int i=height.size()-1, maxx=0;i>=0;--i) {
+            maxx=max(maxx, height[i]);
+            dp[i]=min(dp[i], maxx);
+        }
+        int ans=0;
+        for(int i=0;i<height.size();++i) {
+            ans+=(max(0, dp[i]-height[i]));
+        }
+        return ans;
     }
 };
