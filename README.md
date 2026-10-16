@@ -157,6 +157,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/trinav0711/LeetCode-problems/tree/master/1732-find-the-highest-altitude) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/trinav0711/LeetCode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/trinav0711/LeetCode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/trinav0711/LeetCode-problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/trinav0711/LeetCode-problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/trinav0711/LeetCode-problems/tree/master/1929-concatenation-of-array) |
@@ -402,6 +403,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0973-k-closest-points-to-origin](https://github.com/trinav0711/LeetCode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/trinav0711/LeetCode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trinav0711/LeetCode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/trinav0711/LeetCode-problems/tree/master/3733-minimum-time-to-complete-all-deliveries) |
@@ -1079,6 +1081,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0461-hamming-distance](https://github.com/trinav0711/LeetCode-problems/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/trinav0711/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/trinav0711/LeetCode-problems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/trinav0711/LeetCode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3133-minimum-array-end](https://github.com/trinav0711/LeetCode-problems/tree/master/3133-minimum-array-end) |
 ## Graph Theory
 |  |
@@ -1159,6 +1162,7 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/trinav0711/LeetCode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1216,6 +1220,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0257-binary-tree-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/trinav0711/LeetCode-problems/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0494-target-sum) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/trinav0711/LeetCode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
 | ------- |
@@ -1365,4 +1370,8 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/trinav0711/LeetCode-problems/tree/master/0075-sort-colors) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/trinav0711/LeetCode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
