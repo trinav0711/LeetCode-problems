@@ -126,6 +126,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0695-max-area-of-island](https://github.com/trinav0711/LeetCode-problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/trinav0711/LeetCode-problems/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/trinav0711/LeetCode-problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/trinav0711/LeetCode-problems/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/trinav0711/LeetCode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/trinav0711/LeetCode-problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/trinav0711/LeetCode-problems/tree/master/0735-asteroid-collision) |
@@ -309,6 +310,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0621-task-scheduler](https://github.com/trinav0711/LeetCode-problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/trinav0711/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/trinav0711/LeetCode-problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/trinav0711/LeetCode-problems/tree/master/0706-design-hashmap) |
 | [0726-number-of-atoms](https://github.com/trinav0711/LeetCode-problems/tree/master/0726-number-of-atoms) |
 | [0763-partition-labels](https://github.com/trinav0711/LeetCode-problems/tree/master/0763-partition-labels) |
 | [0815-bus-routes](https://github.com/trinav0711/LeetCode-problems/tree/master/0815-bus-routes) |
@@ -502,6 +504,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0460-lfu-cache](https://github.com/trinav0711/LeetCode-problems/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/trinav0711/LeetCode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/trinav0711/LeetCode-problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/trinav0711/LeetCode-problems/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/trinav0711/LeetCode-problems/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/trinav0711/LeetCode-problems/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/trinav0711/LeetCode-problems/tree/master/0981-time-based-key-value-store) |
@@ -794,6 +797,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0355-design-twitter](https://github.com/trinav0711/LeetCode-problems/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/trinav0711/LeetCode-problems/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/trinav0711/LeetCode-problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/trinav0711/LeetCode-problems/tree/master/0706-design-hashmap) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -1265,6 +1269,7 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/trinav0711/LeetCode-problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/trinav0711/LeetCode-problems/tree/master/0706-design-hashmap) |
 ## Binary Lifting
 |  |
 | ------- |
