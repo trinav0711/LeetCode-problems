@@ -300,6 +300,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0433-minimum-genetic-mutation](https://github.com/trinav0711/LeetCode-problems/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0460-lfu-cache](https://github.com/trinav0711/LeetCode-problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/trinav0711/LeetCode-problems/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0567-permutation-in-string) |
@@ -496,6 +497,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0303-range-sum-query-immutable](https://github.com/trinav0711/LeetCode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/trinav0711/LeetCode-problems/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/trinav0711/LeetCode-problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0460-lfu-cache](https://github.com/trinav0711/LeetCode-problems/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/trinav0711/LeetCode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/trinav0711/LeetCode-problems/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/trinav0711/LeetCode-problems/tree/master/0933-number-of-recent-calls) |
@@ -787,6 +789,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0234-palindrome-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/trinav0711/LeetCode-problems/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/trinav0711/LeetCode-problems/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -1033,6 +1036,7 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/trinav0711/LeetCode-problems/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/trinav0711/LeetCode-problems/tree/master/0460-lfu-cache) |
 ## Bit Manipulation
 |  |
 | ------- |
