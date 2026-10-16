@@ -1073,6 +1073,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0461-hamming-distance](https://github.com/trinav0711/LeetCode-problems/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/trinav0711/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/trinav0711/LeetCode-problems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [3133-minimum-array-end](https://github.com/trinav0711/LeetCode-problems/tree/master/3133-minimum-array-end) |
 ## Graph Theory
 |  |
 | ------- |
