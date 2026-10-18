@@ -141,6 +141,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0815-bus-routes](https://github.com/trinav0711/LeetCode-problems/tree/master/0815-bus-routes) |
 | [0846-hand-of-straights](https://github.com/trinav0711/LeetCode-problems/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/trinav0711/LeetCode-problems/tree/master/0853-car-fleet) |
+| [0867-transpose-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/trinav0711/LeetCode-problems/tree/master/0875-koko-eating-bananas) |
 | [0909-snakes-and-ladders](https://github.com/trinav0711/LeetCode-problems/tree/master/0909-snakes-and-ladders) |
 | [0912-sort-an-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0912-sort-an-array) |
@@ -661,6 +662,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0495-teemo-attacking](https://github.com/trinav0711/LeetCode-problems/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/trinav0711/LeetCode-problems/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/trinav0711/LeetCode-problems/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/2390-removing-stars-from-a-string) |
@@ -781,6 +783,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0463-island-perimeter](https://github.com/trinav0711/LeetCode-problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/trinav0711/LeetCode-problems/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0778-swim-in-rising-water) |
+| [0867-transpose-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0867-transpose-matrix) |
 | [0909-snakes-and-ladders](https://github.com/trinav0711/LeetCode-problems/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/trinav0711/LeetCode-problems/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
