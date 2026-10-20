@@ -347,6 +347,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2013-detect-squares](https://github.com/trinav0711/LeetCode-problems/tree/master/2013-detect-squares) |
+| [2034-stock-price-fluctuation](https://github.com/trinav0711/LeetCode-problems/tree/master/2034-stock-price-fluctuation) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/trinav0711/LeetCode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/trinav0711/LeetCode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/trinav0711/LeetCode-problems/tree/master/2336-smallest-number-in-infinite-set) |
@@ -546,6 +547,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0933-number-of-recent-calls](https://github.com/trinav0711/LeetCode-problems/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/trinav0711/LeetCode-problems/tree/master/0981-time-based-key-value-store) |
 | [2013-detect-squares](https://github.com/trinav0711/LeetCode-problems/tree/master/2013-detect-squares) |
+| [2034-stock-price-fluctuation](https://github.com/trinav0711/LeetCode-problems/tree/master/2034-stock-price-fluctuation) |
 | [2336-smallest-number-in-infinite-set](https://github.com/trinav0711/LeetCode-problems/tree/master/2336-smallest-number-in-infinite-set) |
 ## Randomized
 |  |
@@ -1194,6 +1196,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0901-online-stock-span](https://github.com/trinav0711/LeetCode-problems/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/trinav0711/LeetCode-problems/tree/master/0933-number-of-recent-calls) |
 | [2013-detect-squares](https://github.com/trinav0711/LeetCode-problems/tree/master/2013-detect-squares) |
+| [2034-stock-price-fluctuation](https://github.com/trinav0711/LeetCode-problems/tree/master/2034-stock-price-fluctuation) |
 ## Interactive
 |  |
 | ------- |
@@ -1229,6 +1232,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
 | [1631-path-with-minimum-effort](https://github.com/trinav0711/LeetCode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/trinav0711/LeetCode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2034-stock-price-fluctuation](https://github.com/trinav0711/LeetCode-problems/tree/master/2034-stock-price-fluctuation) |
 | [2336-smallest-number-in-infinite-set](https://github.com/trinav0711/LeetCode-problems/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/trinav0711/LeetCode-problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/trinav0711/LeetCode-problems/tree/master/2542-maximum-subsequence-score) |
@@ -1242,6 +1246,7 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/trinav0711/LeetCode-problems/tree/master/0895-maximum-frequency-stack) |
+| [2034-stock-price-fluctuation](https://github.com/trinav0711/LeetCode-problems/tree/master/2034-stock-price-fluctuation) |
 | [2336-smallest-number-in-infinite-set](https://github.com/trinav0711/LeetCode-problems/tree/master/2336-smallest-number-in-infinite-set) |
 ## Backtracking
 |  |
