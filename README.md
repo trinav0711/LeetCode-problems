@@ -142,6 +142,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0815-bus-routes](https://github.com/trinav0711/LeetCode-problems/tree/master/0815-bus-routes) |
 | [0846-hand-of-straights](https://github.com/trinav0711/LeetCode-problems/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/trinav0711/LeetCode-problems/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/trinav0711/LeetCode-problems/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/trinav0711/LeetCode-problems/tree/master/0875-koko-eating-bananas) |
 | [0909-snakes-and-ladders](https://github.com/trinav0711/LeetCode-problems/tree/master/0909-snakes-and-ladders) |
@@ -506,6 +507,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/trinav0711/LeetCode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/trinav0711/LeetCode-problems/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/trinav0711/LeetCode-problems/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/trinav0711/LeetCode-problems/tree/master/0860-lemonade-change) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/trinav0711/LeetCode-problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2542-maximum-subsequence-score](https://github.com/trinav0711/LeetCode-problems/tree/master/2542-maximum-subsequence-score) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/trinav0711/LeetCode-problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
