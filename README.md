@@ -335,6 +335,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0763-partition-labels](https://github.com/trinav0711/LeetCode-problems/tree/master/0763-partition-labels) |
 | [0815-bus-routes](https://github.com/trinav0711/LeetCode-problems/tree/master/0815-bus-routes) |
 | [0846-hand-of-straights](https://github.com/trinav0711/LeetCode-problems/tree/master/0846-hand-of-straights) |
+| [0895-maximum-frequency-stack](https://github.com/trinav0711/LeetCode-problems/tree/master/0895-maximum-frequency-stack) |
 | [0953-verifying-an-alien-dictionary](https://github.com/trinav0711/LeetCode-problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/trinav0711/LeetCode-problems/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/trinav0711/LeetCode-problems/tree/master/0997-find-the-town-judge) |
@@ -533,6 +534,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0703-kth-largest-element-in-a-stream](https://github.com/trinav0711/LeetCode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/trinav0711/LeetCode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/trinav0711/LeetCode-problems/tree/master/0706-design-hashmap) |
+| [0895-maximum-frequency-stack](https://github.com/trinav0711/LeetCode-problems/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/trinav0711/LeetCode-problems/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/trinav0711/LeetCode-problems/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/trinav0711/LeetCode-problems/tree/master/0981-time-based-key-value-store) |
@@ -699,6 +701,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0735-asteroid-collision](https://github.com/trinav0711/LeetCode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/trinav0711/LeetCode-problems/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/trinav0711/LeetCode-problems/tree/master/0853-car-fleet) |
+| [0895-maximum-frequency-stack](https://github.com/trinav0711/LeetCode-problems/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/trinav0711/LeetCode-problems/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/2390-removing-stars-from-a-string) |
@@ -1227,6 +1230,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Ordered Set
 |  |
 | ------- |
+| [0895-maximum-frequency-stack](https://github.com/trinav0711/LeetCode-problems/tree/master/0895-maximum-frequency-stack) |
 | [2336-smallest-number-in-infinite-set](https://github.com/trinav0711/LeetCode-problems/tree/master/2336-smallest-number-in-infinite-set) |
 ## Backtracking
 |  |
