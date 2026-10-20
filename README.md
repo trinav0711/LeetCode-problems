@@ -428,6 +428,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/trinav0711/LeetCode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/trinav0711/LeetCode-problems/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trinav0711/LeetCode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/trinav0711/LeetCode-problems/tree/master/3733-minimum-time-to-complete-all-deliveries) |
@@ -515,6 +516,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0860-lemonade-change](https://github.com/trinav0711/LeetCode-problems/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/trinav0711/LeetCode-problems/tree/master/0881-boats-to-save-people) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/trinav0711/LeetCode-problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/trinav0711/LeetCode-problems/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2542-maximum-subsequence-score](https://github.com/trinav0711/LeetCode-problems/tree/master/2542-maximum-subsequence-score) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/trinav0711/LeetCode-problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Counting Sort
@@ -1269,6 +1271,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0401-binary-watch](https://github.com/trinav0711/LeetCode-problems/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0494-target-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/trinav0711/LeetCode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/trinav0711/LeetCode-problems/tree/master/2178-maximum-split-of-positive-even-integers) |
 ## Number Theory
 |  |
 | ------- |
