@@ -122,6 +122,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0502-ipo](https://github.com/trinav0711/LeetCode-problems/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/trinav0711/LeetCode-problems/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0518-coin-change-ii) |
+| [0539-minimum-time-difference](https://github.com/trinav0711/LeetCode-problems/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/trinav0711/LeetCode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/trinav0711/LeetCode-problems/tree/master/0605-can-place-flowers) |
 | [0609-find-duplicate-file-in-system](https://github.com/trinav0711/LeetCode-problems/tree/master/0609-find-duplicate-file-in-system) |
@@ -261,6 +262,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0455-assign-cookies](https://github.com/trinav0711/LeetCode-problems/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/trinav0711/LeetCode-problems/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/trinav0711/LeetCode-problems/tree/master/0506-relative-ranks) |
+| [0539-minimum-time-difference](https://github.com/trinav0711/LeetCode-problems/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/trinav0711/LeetCode-problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/trinav0711/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [0726-number-of-atoms](https://github.com/trinav0711/LeetCode-problems/tree/master/0726-number-of-atoms) |
@@ -423,6 +425,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0504-base-7](https://github.com/trinav0711/LeetCode-problems/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0509-fibonacci-number) |
+| [0539-minimum-time-difference](https://github.com/trinav0711/LeetCode-problems/tree/master/0539-minimum-time-difference) |
 | [0973-k-closest-points-to-origin](https://github.com/trinav0711/LeetCode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
@@ -634,6 +637,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0504-base-7](https://github.com/trinav0711/LeetCode-problems/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/trinav0711/LeetCode-problems/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0539-minimum-time-difference](https://github.com/trinav0711/LeetCode-problems/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/trinav0711/LeetCode-problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0647-palindromic-substrings](https://github.com/trinav0711/LeetCode-problems/tree/master/0647-palindromic-substrings) |
