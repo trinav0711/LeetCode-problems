@@ -274,6 +274,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0912-sort-an-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/trinav0711/LeetCode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
+| [1387-sort-integers-by-the-power-value](https://github.com/trinav0711/LeetCode-problems/tree/master/1387-sort-integers-by-the-power-value) |
 | [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/trinav0711/LeetCode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -494,6 +495,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1143-longest-common-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/trinav0711/LeetCode-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1387-sort-integers-by-the-power-value](https://github.com/trinav0711/LeetCode-problems/tree/master/1387-sort-integers-by-the-power-value) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/trinav0711/LeetCode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3225-maximum-score-from-grid-operations](https://github.com/trinav0711/LeetCode-problems/tree/master/3225-maximum-score-from-grid-operations) |
 ## Greedy
@@ -1164,6 +1166,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
+| [1387-sort-integers-by-the-power-value](https://github.com/trinav0711/LeetCode-problems/tree/master/1387-sort-integers-by-the-power-value) |
 ## Shortest Path
 |  |
 | ------- |
