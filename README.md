@@ -122,6 +122,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0502-ipo](https://github.com/trinav0711/LeetCode-problems/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/trinav0711/LeetCode-problems/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0518-coin-change-ii) |
+| [0528-random-pick-with-weight](https://github.com/trinav0711/LeetCode-problems/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/trinav0711/LeetCode-problems/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/trinav0711/LeetCode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/trinav0711/LeetCode-problems/tree/master/0605-can-place-flowers) |
@@ -426,6 +427,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0504-base-7](https://github.com/trinav0711/LeetCode-problems/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0509-fibonacci-number) |
+| [0528-random-pick-with-weight](https://github.com/trinav0711/LeetCode-problems/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/trinav0711/LeetCode-problems/tree/master/0539-minimum-time-difference) |
 | [0973-k-closest-points-to-origin](https://github.com/trinav0711/LeetCode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -559,6 +561,7 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/trinav0711/LeetCode-problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0528-random-pick-with-weight](https://github.com/trinav0711/LeetCode-problems/tree/master/0528-random-pick-with-weight) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -567,6 +570,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0303-range-sum-query-immutable](https://github.com/trinav0711/LeetCode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/trinav0711/LeetCode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
+| [0528-random-pick-with-weight](https://github.com/trinav0711/LeetCode-problems/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/trinav0711/LeetCode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/trinav0711/LeetCode-problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -754,6 +758,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0374-guess-number-higher-or-lower](https://github.com/trinav0711/LeetCode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
+| [0528-random-pick-with-weight](https://github.com/trinav0711/LeetCode-problems/tree/master/0528-random-pick-with-weight) |
 | [0704-binary-search](https://github.com/trinav0711/LeetCode-problems/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/trinav0711/LeetCode-problems/tree/master/0875-koko-eating-bananas) |
