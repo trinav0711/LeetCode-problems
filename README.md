@@ -176,6 +176,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1929-concatenation-of-array](https://github.com/trinav0711/LeetCode-problems/tree/master/1929-concatenation-of-array) |
 | [2013-detect-squares](https://github.com/trinav0711/LeetCode-problems/tree/master/2013-detect-squares) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2101-detonate-the-maximum-bombs](https://github.com/trinav0711/LeetCode-problems/tree/master/2101-detonate-the-maximum-bombs) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/trinav0711/LeetCode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/trinav0711/LeetCode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/trinav0711/LeetCode-problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -438,6 +439,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/trinav0711/LeetCode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2101-detonate-the-maximum-bombs](https://github.com/trinav0711/LeetCode-problems/tree/master/2101-detonate-the-maximum-bombs) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/trinav0711/LeetCode-problems/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trinav0711/LeetCode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -993,6 +995,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1448-count-good-nodes-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/trinav0711/LeetCode-problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/trinav0711/LeetCode-problems/tree/master/1631-path-with-minimum-effort) |
+| [2101-detonate-the-maximum-bombs](https://github.com/trinav0711/LeetCode-problems/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1039,6 +1042,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/trinav0711/LeetCode-problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/trinav0711/LeetCode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/trinav0711/LeetCode-problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2101-detonate-the-maximum-bombs](https://github.com/trinav0711/LeetCode-problems/tree/master/2101-detonate-the-maximum-bombs) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trinav0711/LeetCode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
@@ -1162,6 +1166,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/trinav0711/LeetCode-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/trinav0711/LeetCode-problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1584-min-cost-to-connect-all-points](https://github.com/trinav0711/LeetCode-problems/tree/master/1584-min-cost-to-connect-all-points) |
+| [2101-detonate-the-maximum-bombs](https://github.com/trinav0711/LeetCode-problems/tree/master/2101-detonate-the-maximum-bombs) |
 ## Memoization
 |  |
 | ------- |
@@ -1199,6 +1204,7 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/trinav0711/LeetCode-problems/tree/master/0149-max-points-on-a-line) |
 | [0973-k-closest-points-to-origin](https://github.com/trinav0711/LeetCode-problems/tree/master/0973-k-closest-points-to-origin) |
+| [2101-detonate-the-maximum-bombs](https://github.com/trinav0711/LeetCode-problems/tree/master/2101-detonate-the-maximum-bombs) |
 ## Queue
 |  |
 | ------- |
