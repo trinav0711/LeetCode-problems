@@ -492,6 +492,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0494-target-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0518-coin-change-ii) |
+| [0552-student-attendance-record-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0552-student-attendance-record-ii) |
 | [0647-palindromic-substrings](https://github.com/trinav0711/LeetCode-problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/trinav0711/LeetCode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
