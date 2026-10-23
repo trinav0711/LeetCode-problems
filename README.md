@@ -108,6 +108,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0414-third-maximum-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/trinav0711/LeetCode-problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0419-battleships-in-a-board](https://github.com/trinav0711/LeetCode-problems/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/trinav0711/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -819,6 +820,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/trinav0711/LeetCode-problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0419-battleships-in-a-board](https://github.com/trinav0711/LeetCode-problems/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/trinav0711/LeetCode-problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/trinav0711/LeetCode-problems/tree/master/0695-max-area-of-island) |
@@ -977,6 +979,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0399-evaluate-division](https://github.com/trinav0711/LeetCode-problems/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/trinav0711/LeetCode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/trinav0711/LeetCode-problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0419-battleships-in-a-board](https://github.com/trinav0711/LeetCode-problems/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/trinav0711/LeetCode-problems/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
