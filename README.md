@@ -672,6 +672,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/trinav0711/LeetCode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/trinav0711/LeetCode-problems/tree/master/1768-merge-strings-alternately) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/trinav0711/LeetCode-problems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2390-removing-stars-from-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/trinav0711/LeetCode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Trie
@@ -945,6 +946,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/trinav0711/LeetCode-problems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/trinav0711/LeetCode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -1004,6 +1006,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1448-count-good-nodes-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/trinav0711/LeetCode-problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/trinav0711/LeetCode-problems/tree/master/1631-path-with-minimum-effort) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/trinav0711/LeetCode-problems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2101-detonate-the-maximum-bombs](https://github.com/trinav0711/LeetCode-problems/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
 |  |
@@ -1099,6 +1102,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/trinav0711/LeetCode-problems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/trinav0711/LeetCode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
@@ -1379,10 +1383,12 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/trinav0711/LeetCode-problems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/trinav0711/LeetCode-problems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
