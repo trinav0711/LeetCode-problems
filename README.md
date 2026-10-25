@@ -160,6 +160,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1004-max-consecutive-ones-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/trinav0711/LeetCode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/trinav0711/LeetCode-problems/tree/master/1046-last-stone-weight) |
+| [1048-longest-string-chain](https://github.com/trinav0711/LeetCode-problems/tree/master/1048-longest-string-chain) |
 | [1184-distance-between-bus-stops](https://github.com/trinav0711/LeetCode-problems/tree/master/1184-distance-between-bus-stops) |
 | [1207-unique-number-of-occurrences](https://github.com/trinav0711/LeetCode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
@@ -235,6 +236,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0680-valid-palindrome-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/trinav0711/LeetCode-problems/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/trinav0711/LeetCode-problems/tree/master/0881-boats-to-save-people) |
+| [1048-longest-string-chain](https://github.com/trinav0711/LeetCode-problems/tree/master/1048-longest-string-chain) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/trinav0711/LeetCode-problems/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -280,6 +282,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0881-boats-to-save-people](https://github.com/trinav0711/LeetCode-problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/trinav0711/LeetCode-problems/tree/master/0973-k-closest-points-to-origin) |
+| [1048-longest-string-chain](https://github.com/trinav0711/LeetCode-problems/tree/master/1048-longest-string-chain) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
 | [1387-sort-integers-by-the-power-value](https://github.com/trinav0711/LeetCode-problems/tree/master/1387-sort-integers-by-the-power-value) |
 | [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
@@ -357,6 +360,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0953-verifying-an-alien-dictionary](https://github.com/trinav0711/LeetCode-problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/trinav0711/LeetCode-problems/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/trinav0711/LeetCode-problems/tree/master/0997-find-the-town-judge) |
+| [1048-longest-string-chain](https://github.com/trinav0711/LeetCode-problems/tree/master/1048-longest-string-chain) |
 | [1207-unique-number-of-occurrences](https://github.com/trinav0711/LeetCode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -504,6 +508,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0790-domino-and-tromino-tiling](https://github.com/trinav0711/LeetCode-problems/tree/master/0790-domino-and-tromino-tiling) |
 | [0792-number-of-matching-subsequences](https://github.com/trinav0711/LeetCode-problems/tree/master/0792-number-of-matching-subsequences) |
 | [0918-maximum-sum-circular-subarray](https://github.com/trinav0711/LeetCode-problems/tree/master/0918-maximum-sum-circular-subarray) |
+| [1048-longest-string-chain](https://github.com/trinav0711/LeetCode-problems/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/trinav0711/LeetCode-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -671,6 +676,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0792-number-of-matching-subsequences](https://github.com/trinav0711/LeetCode-problems/tree/master/0792-number-of-matching-subsequences) |
 | [0953-verifying-an-alien-dictionary](https://github.com/trinav0711/LeetCode-problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/trinav0711/LeetCode-problems/tree/master/0981-time-based-key-value-store) |
+| [1048-longest-string-chain](https://github.com/trinav0711/LeetCode-problems/tree/master/1048-longest-string-chain) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
