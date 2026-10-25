@@ -142,6 +142,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0739-daily-temperatures](https://github.com/trinav0711/LeetCode-problems/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/trinav0711/LeetCode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0778-swim-in-rising-water) |
+| [0792-number-of-matching-subsequences](https://github.com/trinav0711/LeetCode-problems/tree/master/0792-number-of-matching-subsequences) |
 | [0815-bus-routes](https://github.com/trinav0711/LeetCode-problems/tree/master/0815-bus-routes) |
 | [0846-hand-of-straights](https://github.com/trinav0711/LeetCode-problems/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/trinav0711/LeetCode-problems/tree/master/0853-car-fleet) |
@@ -273,6 +274,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0621-task-scheduler](https://github.com/trinav0711/LeetCode-problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/trinav0711/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [0726-number-of-atoms](https://github.com/trinav0711/LeetCode-problems/tree/master/0726-number-of-atoms) |
+| [0792-number-of-matching-subsequences](https://github.com/trinav0711/LeetCode-problems/tree/master/0792-number-of-matching-subsequences) |
 | [0846-hand-of-straights](https://github.com/trinav0711/LeetCode-problems/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/trinav0711/LeetCode-problems/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/trinav0711/LeetCode-problems/tree/master/0881-boats-to-save-people) |
@@ -348,6 +350,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0706-design-hashmap](https://github.com/trinav0711/LeetCode-problems/tree/master/0706-design-hashmap) |
 | [0726-number-of-atoms](https://github.com/trinav0711/LeetCode-problems/tree/master/0726-number-of-atoms) |
 | [0763-partition-labels](https://github.com/trinav0711/LeetCode-problems/tree/master/0763-partition-labels) |
+| [0792-number-of-matching-subsequences](https://github.com/trinav0711/LeetCode-problems/tree/master/0792-number-of-matching-subsequences) |
 | [0815-bus-routes](https://github.com/trinav0711/LeetCode-problems/tree/master/0815-bus-routes) |
 | [0846-hand-of-straights](https://github.com/trinav0711/LeetCode-problems/tree/master/0846-hand-of-straights) |
 | [0895-maximum-frequency-stack](https://github.com/trinav0711/LeetCode-problems/tree/master/0895-maximum-frequency-stack) |
@@ -499,6 +502,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0746-min-cost-climbing-stairs](https://github.com/trinav0711/LeetCode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/trinav0711/LeetCode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0790-domino-and-tromino-tiling](https://github.com/trinav0711/LeetCode-problems/tree/master/0790-domino-and-tromino-tiling) |
+| [0792-number-of-matching-subsequences](https://github.com/trinav0711/LeetCode-problems/tree/master/0792-number-of-matching-subsequences) |
 | [0918-maximum-sum-circular-subarray](https://github.com/trinav0711/LeetCode-problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/1143-longest-common-subsequence) |
@@ -664,6 +668,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0680-valid-palindrome-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0726-number-of-atoms](https://github.com/trinav0711/LeetCode-problems/tree/master/0726-number-of-atoms) |
 | [0763-partition-labels](https://github.com/trinav0711/LeetCode-problems/tree/master/0763-partition-labels) |
+| [0792-number-of-matching-subsequences](https://github.com/trinav0711/LeetCode-problems/tree/master/0792-number-of-matching-subsequences) |
 | [0953-verifying-an-alien-dictionary](https://github.com/trinav0711/LeetCode-problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/trinav0711/LeetCode-problems/tree/master/0981-time-based-key-value-store) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -683,6 +688,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0208-implement-trie-prefix-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/trinav0711/LeetCode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0212-word-search-ii) |
+| [0792-number-of-matching-subsequences](https://github.com/trinav0711/LeetCode-problems/tree/master/0792-number-of-matching-subsequences) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
 ## String Matching
 |  |
@@ -776,6 +782,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0528-random-pick-with-weight](https://github.com/trinav0711/LeetCode-problems/tree/master/0528-random-pick-with-weight) |
 | [0704-binary-search](https://github.com/trinav0711/LeetCode-problems/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0778-swim-in-rising-water) |
+| [0792-number-of-matching-subsequences](https://github.com/trinav0711/LeetCode-problems/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/trinav0711/LeetCode-problems/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/trinav0711/LeetCode-problems/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/1004-max-consecutive-ones-iii) |
