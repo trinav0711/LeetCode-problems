@@ -454,6 +454,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1863-sum-of-all-subset-xor-totals](https://github.com/trinav0711/LeetCode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/trinav0711/LeetCode-problems/tree/master/2101-detonate-the-maximum-bombs) |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/trinav0711/LeetCode-problems/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/trinav0711/LeetCode-problems/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trinav0711/LeetCode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -1494,6 +1495,7 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/trinav0711/LeetCode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/trinav0711/LeetCode-problems/tree/master/2162-minimum-cost-to-set-cooking-time) |
 ## Radix Sort
 |  |
 | ------- |
