@@ -152,6 +152,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0867-transpose-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/trinav0711/LeetCode-problems/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/trinav0711/LeetCode-problems/tree/master/0881-boats-to-save-people) |
+| [0900-rle-iterator](https://github.com/trinav0711/LeetCode-problems/tree/master/0900-rle-iterator) |
 | [0909-snakes-and-ladders](https://github.com/trinav0711/LeetCode-problems/tree/master/0909-snakes-and-ladders) |
 | [0912-sort-an-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/trinav0711/LeetCode-problems/tree/master/0918-maximum-sum-circular-subarray) |
@@ -408,6 +409,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0383-ransom-note](https://github.com/trinav0711/LeetCode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/trinav0711/LeetCode-problems/tree/master/0621-task-scheduler) |
+| [0900-rle-iterator](https://github.com/trinav0711/LeetCode-problems/tree/master/0900-rle-iterator) |
 | [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [2013-detect-squares](https://github.com/trinav0711/LeetCode-problems/tree/master/2013-detect-squares) |
 ## Math
@@ -583,6 +585,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0706-design-hashmap](https://github.com/trinav0711/LeetCode-problems/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0729-my-calendar-i) |
 | [0895-maximum-frequency-stack](https://github.com/trinav0711/LeetCode-problems/tree/master/0895-maximum-frequency-stack) |
+| [0900-rle-iterator](https://github.com/trinav0711/LeetCode-problems/tree/master/0900-rle-iterator) |
 | [0901-online-stock-span](https://github.com/trinav0711/LeetCode-problems/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/trinav0711/LeetCode-problems/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/trinav0711/LeetCode-problems/tree/master/0981-time-based-key-value-store) |
@@ -1235,6 +1238,7 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/trinav0711/LeetCode-problems/tree/master/0173-binary-search-tree-iterator) |
+| [0900-rle-iterator](https://github.com/trinav0711/LeetCode-problems/tree/master/0900-rle-iterator) |
 ## Merge Sort
 |  |
 | ------- |
