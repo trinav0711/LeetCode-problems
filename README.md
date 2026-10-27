@@ -162,6 +162,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/trinav0711/LeetCode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/trinav0711/LeetCode-problems/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/trinav0711/LeetCode-problems/tree/master/1048-longest-string-chain) |
+| [1105-filling-bookcase-shelves](https://github.com/trinav0711/LeetCode-problems/tree/master/1105-filling-bookcase-shelves) |
 | [1184-distance-between-bus-stops](https://github.com/trinav0711/LeetCode-problems/tree/master/1184-distance-between-bus-stops) |
 | [1207-unique-number-of-occurrences](https://github.com/trinav0711/LeetCode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
@@ -510,6 +511,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0792-number-of-matching-subsequences](https://github.com/trinav0711/LeetCode-problems/tree/master/0792-number-of-matching-subsequences) |
 | [0918-maximum-sum-circular-subarray](https://github.com/trinav0711/LeetCode-problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1048-longest-string-chain](https://github.com/trinav0711/LeetCode-problems/tree/master/1048-longest-string-chain) |
+| [1105-filling-bookcase-shelves](https://github.com/trinav0711/LeetCode-problems/tree/master/1105-filling-bookcase-shelves) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/trinav0711/LeetCode-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
