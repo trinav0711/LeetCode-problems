@@ -182,6 +182,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/trinav0711/LeetCode-problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/trinav0711/LeetCode-problems/tree/master/1929-concatenation-of-array) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/trinav0711/LeetCode-problems/tree/master/1937-maximum-number-of-points-with-cost) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/trinav0711/LeetCode-problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2013-detect-squares](https://github.com/trinav0711/LeetCode-problems/tree/master/2013-detect-squares) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/trinav0711/LeetCode-problems/tree/master/2101-detonate-the-maximum-bombs) |
@@ -294,6 +295,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/trinav0711/LeetCode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/trinav0711/LeetCode-problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/trinav0711/LeetCode-problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/2402-meeting-rooms-iii) |
@@ -555,6 +557,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0860-lemonade-change](https://github.com/trinav0711/LeetCode-problems/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/trinav0711/LeetCode-problems/tree/master/0881-boats-to-save-people) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/trinav0711/LeetCode-problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/trinav0711/LeetCode-problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/trinav0711/LeetCode-problems/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2542-maximum-subsequence-score](https://github.com/trinav0711/LeetCode-problems/tree/master/2542-maximum-subsequence-score) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/trinav0711/LeetCode-problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
@@ -765,6 +768,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0853-car-fleet](https://github.com/trinav0711/LeetCode-problems/tree/master/0853-car-fleet) |
 | [0895-maximum-frequency-stack](https://github.com/trinav0711/LeetCode-problems/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/trinav0711/LeetCode-problems/tree/master/0901-online-stock-span) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/trinav0711/LeetCode-problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -776,6 +780,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0739-daily-temperatures](https://github.com/trinav0711/LeetCode-problems/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/trinav0711/LeetCode-problems/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/trinav0711/LeetCode-problems/tree/master/0901-online-stock-span) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/trinav0711/LeetCode-problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Binary Search
 |  |
 | ------- |
