@@ -165,6 +165,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1046-last-stone-weight](https://github.com/trinav0711/LeetCode-problems/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/trinav0711/LeetCode-problems/tree/master/1048-longest-string-chain) |
 | [1105-filling-bookcase-shelves](https://github.com/trinav0711/LeetCode-problems/tree/master/1105-filling-bookcase-shelves) |
+| [1146-snapshot-array](https://github.com/trinav0711/LeetCode-problems/tree/master/1146-snapshot-array) |
 | [1184-distance-between-bus-stops](https://github.com/trinav0711/LeetCode-problems/tree/master/1184-distance-between-bus-stops) |
 | [1207-unique-number-of-occurrences](https://github.com/trinav0711/LeetCode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
@@ -372,6 +373,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0981-time-based-key-value-store](https://github.com/trinav0711/LeetCode-problems/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/trinav0711/LeetCode-problems/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/trinav0711/LeetCode-problems/tree/master/1048-longest-string-chain) |
+| [1146-snapshot-array](https://github.com/trinav0711/LeetCode-problems/tree/master/1146-snapshot-array) |
 | [1207-unique-number-of-occurrences](https://github.com/trinav0711/LeetCode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -595,6 +597,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0901-online-stock-span](https://github.com/trinav0711/LeetCode-problems/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/trinav0711/LeetCode-problems/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/trinav0711/LeetCode-problems/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/trinav0711/LeetCode-problems/tree/master/1146-snapshot-array) |
 | [2013-detect-squares](https://github.com/trinav0711/LeetCode-problems/tree/master/2013-detect-squares) |
 | [2034-stock-price-fluctuation](https://github.com/trinav0711/LeetCode-problems/tree/master/2034-stock-price-fluctuation) |
 | [2336-smallest-number-in-infinite-set](https://github.com/trinav0711/LeetCode-problems/tree/master/2336-smallest-number-in-infinite-set) |
@@ -818,6 +821,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0981-time-based-key-value-store](https://github.com/trinav0711/LeetCode-problems/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/trinav0711/LeetCode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1146-snapshot-array](https://github.com/trinav0711/LeetCode-problems/tree/master/1146-snapshot-array) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
 | [1631-path-with-minimum-effort](https://github.com/trinav0711/LeetCode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/trinav0711/LeetCode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -1534,4 +1538,8 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0729-my-calendar-i) |
+## Persistent Data Structure
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/trinav0711/LeetCode-problems/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
