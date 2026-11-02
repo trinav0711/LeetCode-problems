@@ -187,6 +187,7 @@ LeetCode problems solved to demonstrate and track progress
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/trinav0711/LeetCode-problems/tree/master/2101-detonate-the-maximum-bombs) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/trinav0711/LeetCode-problems/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2135-count-words-obtained-after-adding-a-letter](https://github.com/trinav0711/LeetCode-problems/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2172-maximum-and-sum-of-array](https://github.com/trinav0711/LeetCode-problems/tree/master/2172-maximum-and-sum-of-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/trinav0711/LeetCode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/trinav0711/LeetCode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -297,6 +298,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1851-minimum-interval-to-include-each-query](https://github.com/trinav0711/LeetCode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/trinav0711/LeetCode-problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2135-count-words-obtained-after-adding-a-letter](https://github.com/trinav0711/LeetCode-problems/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/trinav0711/LeetCode-problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/2402-meeting-rooms-iii) |
 | [2542-maximum-subsequence-score](https://github.com/trinav0711/LeetCode-problems/tree/master/2542-maximum-subsequence-score) |
@@ -376,6 +378,7 @@ LeetCode problems solved to demonstrate and track progress
 | [2013-detect-squares](https://github.com/trinav0711/LeetCode-problems/tree/master/2013-detect-squares) |
 | [2034-stock-price-fluctuation](https://github.com/trinav0711/LeetCode-problems/tree/master/2034-stock-price-fluctuation) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/trinav0711/LeetCode-problems/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2135-count-words-obtained-after-adding-a-letter](https://github.com/trinav0711/LeetCode-problems/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/trinav0711/LeetCode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/trinav0711/LeetCode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/trinav0711/LeetCode-problems/tree/master/2336-smallest-number-in-infinite-set) |
@@ -702,6 +705,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1768-merge-strings-alternately](https://github.com/trinav0711/LeetCode-problems/tree/master/1768-merge-strings-alternately) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/trinav0711/LeetCode-problems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/trinav0711/LeetCode-problems/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2135-count-words-obtained-after-adding-a-letter](https://github.com/trinav0711/LeetCode-problems/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2390-removing-stars-from-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/trinav0711/LeetCode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Trie
@@ -1194,6 +1198,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0645-set-mismatch](https://github.com/trinav0711/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/trinav0711/LeetCode-problems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/trinav0711/LeetCode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2135-count-words-obtained-after-adding-a-letter](https://github.com/trinav0711/LeetCode-problems/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2172-maximum-and-sum-of-array](https://github.com/trinav0711/LeetCode-problems/tree/master/2172-maximum-and-sum-of-array) |
 | [3133-minimum-array-end](https://github.com/trinav0711/LeetCode-problems/tree/master/3133-minimum-array-end) |
 ## Graph Theory
