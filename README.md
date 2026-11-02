@@ -174,6 +174,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/trinav0711/LeetCode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/trinav0711/LeetCode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1584-min-cost-to-connect-all-points](https://github.com/trinav0711/LeetCode-problems/tree/master/1584-min-cost-to-connect-all-points) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/trinav0711/LeetCode-problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/trinav0711/LeetCode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/trinav0711/LeetCode-problems/tree/master/1732-find-the-highest-altitude) |
@@ -743,6 +744,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0682-baseball-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/trinav0711/LeetCode-problems/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0867-transpose-matrix) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/trinav0711/LeetCode-problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/trinav0711/LeetCode-problems/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/2390-removing-stars-from-a-string) |
@@ -1319,6 +1321,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0973-k-closest-points-to-origin](https://github.com/trinav0711/LeetCode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/trinav0711/LeetCode-problems/tree/master/1046-last-stone-weight) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/trinav0711/LeetCode-problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/trinav0711/LeetCode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/trinav0711/LeetCode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2034-stock-price-fluctuation](https://github.com/trinav0711/LeetCode-problems/tree/master/2034-stock-price-fluctuation) |
@@ -1337,6 +1340,7 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0729-my-calendar-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0729-my-calendar-i) |
 | [0895-maximum-frequency-stack](https://github.com/trinav0711/LeetCode-problems/tree/master/0895-maximum-frequency-stack) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/trinav0711/LeetCode-problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2034-stock-price-fluctuation](https://github.com/trinav0711/LeetCode-problems/tree/master/2034-stock-price-fluctuation) |
 | [2336-smallest-number-in-infinite-set](https://github.com/trinav0711/LeetCode-problems/tree/master/2336-smallest-number-in-infinite-set) |
 ## Backtracking
