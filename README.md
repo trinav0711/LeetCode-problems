@@ -197,6 +197,7 @@ LeetCode problems solved to demonstrate and track progress
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/trinav0711/LeetCode-problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/2402-meeting-rooms-iii) |
+| [2421-number-of-good-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/2421-number-of-good-paths) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/trinav0711/LeetCode-problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/trinav0711/LeetCode-problems/tree/master/2542-maximum-subsequence-score) |
 | [2574-left-and-right-sum-differences](https://github.com/trinav0711/LeetCode-problems/tree/master/2574-left-and-right-sum-differences) |
@@ -305,6 +306,7 @@ LeetCode problems solved to demonstrate and track progress
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/trinav0711/LeetCode-problems/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/trinav0711/LeetCode-problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/2402-meeting-rooms-iii) |
+| [2421-number-of-good-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/2421-number-of-good-paths) |
 | [2542-maximum-subsequence-score](https://github.com/trinav0711/LeetCode-problems/tree/master/2542-maximum-subsequence-score) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/trinav0711/LeetCode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/trinav0711/LeetCode-problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
@@ -389,6 +391,7 @@ LeetCode problems solved to demonstrate and track progress
 | [2336-smallest-number-in-infinite-set](https://github.com/trinav0711/LeetCode-problems/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/2402-meeting-rooms-iii) |
+| [2421-number-of-good-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/2421-number-of-good-paths) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/trinav0711/LeetCode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trinav0711/LeetCode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Divide and Conquer
@@ -996,6 +999,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1448-count-good-nodes-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/trinav0711/LeetCode-problems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/trinav0711/LeetCode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2421-number-of-good-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/2421-number-of-good-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1179,6 +1183,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/trinav0711/LeetCode-problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/trinav0711/LeetCode-problems/tree/master/1631-path-with-minimum-effort) |
+| [2421-number-of-good-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/2421-number-of-good-paths) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1231,6 +1236,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1584-min-cost-to-connect-all-points](https://github.com/trinav0711/LeetCode-problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [2101-detonate-the-maximum-bombs](https://github.com/trinav0711/LeetCode-problems/tree/master/2101-detonate-the-maximum-bombs) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/trinav0711/LeetCode-problems/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2421-number-of-good-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/2421-number-of-good-paths) |
 ## Memoization
 |  |
 | ------- |
