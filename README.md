@@ -186,6 +186,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1937-maximum-number-of-points-with-cost](https://github.com/trinav0711/LeetCode-problems/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/trinav0711/LeetCode-problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2013-detect-squares](https://github.com/trinav0711/LeetCode-problems/tree/master/2013-detect-squares) |
+| [2018-check-if-word-can-be-placed-in-crossword](https://github.com/trinav0711/LeetCode-problems/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/trinav0711/LeetCode-problems/tree/master/2101-detonate-the-maximum-bombs) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/trinav0711/LeetCode-problems/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -883,6 +884,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1631-path-with-minimum-effort](https://github.com/trinav0711/LeetCode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/trinav0711/LeetCode-problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/trinav0711/LeetCode-problems/tree/master/1937-maximum-number-of-points-with-cost) |
+| [2018-check-if-word-can-be-placed-in-crossword](https://github.com/trinav0711/LeetCode-problems/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/2352-equal-row-and-column-pairs) |
 | [3225-maximum-score-from-grid-operations](https://github.com/trinav0711/LeetCode-problems/tree/master/3225-maximum-score-from-grid-operations) |
@@ -1523,6 +1525,7 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/trinav0711/LeetCode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2018-check-if-word-can-be-placed-in-crossword](https://github.com/trinav0711/LeetCode-problems/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/trinav0711/LeetCode-problems/tree/master/2162-minimum-cost-to-set-cooking-time) |
 ## Radix Sort
 |  |
