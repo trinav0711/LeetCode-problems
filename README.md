@@ -197,6 +197,7 @@ LeetCode problems solved to demonstrate and track progress
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/trinav0711/LeetCode-problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/2402-meeting-rooms-iii) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2421-number-of-good-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/2421-number-of-good-paths) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/trinav0711/LeetCode-problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/trinav0711/LeetCode-problems/tree/master/2542-maximum-subsequence-score) |
@@ -425,6 +426,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0900-rle-iterator](https://github.com/trinav0711/LeetCode-problems/tree/master/0900-rle-iterator) |
 | [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [2013-detect-squares](https://github.com/trinav0711/LeetCode-problems/tree/master/2013-detect-squares) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Math
 |  |
 | ------- |
@@ -717,6 +719,7 @@ LeetCode problems solved to demonstrate and track progress
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/trinav0711/LeetCode-problems/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/trinav0711/LeetCode-problems/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2390-removing-stars-from-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/2390-removing-stars-from-a-string) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/trinav0711/LeetCode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Trie
 |  |
@@ -728,6 +731,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0212-word-search-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0212-word-search-ii) |
 | [0792-number-of-matching-subsequences](https://github.com/trinav0711/LeetCode-problems/tree/master/0792-number-of-matching-subsequences) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## String Matching
 |  |
 | ------- |
