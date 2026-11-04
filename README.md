@@ -534,6 +534,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0787-cheapest-flights-within-k-stops](https://github.com/trinav0711/LeetCode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0790-domino-and-tromino-tiling](https://github.com/trinav0711/LeetCode-problems/tree/master/0790-domino-and-tromino-tiling) |
 | [0792-number-of-matching-subsequences](https://github.com/trinav0711/LeetCode-problems/tree/master/0792-number-of-matching-subsequences) |
+| [0818-race-car](https://github.com/trinav0711/LeetCode-problems/tree/master/0818-race-car) |
 | [0918-maximum-sum-circular-subarray](https://github.com/trinav0711/LeetCode-problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1048-longest-string-chain](https://github.com/trinav0711/LeetCode-problems/tree/master/1048-longest-string-chain) |
 | [1105-filling-bookcase-shelves](https://github.com/trinav0711/LeetCode-problems/tree/master/1105-filling-bookcase-shelves) |
@@ -1565,4 +1566,12 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [1146-snapshot-array](https://github.com/trinav0711/LeetCode-problems/tree/master/1146-snapshot-array) |
+## Heuristic Search
+|  |
+| ------- |
+| [0818-race-car](https://github.com/trinav0711/LeetCode-problems/tree/master/0818-race-car) |
+## A* Search
+|  |
+| ------- |
+| [0818-race-car](https://github.com/trinav0711/LeetCode-problems/tree/master/0818-race-car) |
 <!---LeetCode Topics End-->
