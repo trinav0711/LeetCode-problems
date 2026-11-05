@@ -604,6 +604,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0703-kth-largest-element-in-a-stream](https://github.com/trinav0711/LeetCode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/trinav0711/LeetCode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/trinav0711/LeetCode-problems/tree/master/0706-design-hashmap) |
+| [0715-range-module](https://github.com/trinav0711/LeetCode-problems/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0729-my-calendar-i) |
 | [0895-maximum-frequency-stack](https://github.com/trinav0711/LeetCode-problems/tree/master/0895-maximum-frequency-stack) |
 | [0900-rle-iterator](https://github.com/trinav0711/LeetCode-problems/tree/master/0900-rle-iterator) |
@@ -1360,6 +1361,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Ordered Set
 |  |
 | ------- |
+| [0715-range-module](https://github.com/trinav0711/LeetCode-problems/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0729-my-calendar-i) |
 | [0895-maximum-frequency-stack](https://github.com/trinav0711/LeetCode-problems/tree/master/0895-maximum-frequency-stack) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/trinav0711/LeetCode-problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -1567,6 +1569,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Segment Tree
 |  |
 | ------- |
+| [0715-range-module](https://github.com/trinav0711/LeetCode-problems/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0729-my-calendar-i) |
 ## Persistent Data Structure
 |  |
