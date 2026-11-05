@@ -177,6 +177,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/trinav0711/LeetCode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1584-min-cost-to-connect-all-points](https://github.com/trinav0711/LeetCode-problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/trinav0711/LeetCode-problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1610-maximum-number-of-visible-points](https://github.com/trinav0711/LeetCode-problems/tree/master/1610-maximum-number-of-visible-points) |
 | [1631-path-with-minimum-effort](https://github.com/trinav0711/LeetCode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/trinav0711/LeetCode-problems/tree/master/1732-find-the-highest-altitude) |
@@ -302,6 +303,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1048-longest-string-chain](https://github.com/trinav0711/LeetCode-problems/tree/master/1048-longest-string-chain) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
 | [1387-sort-integers-by-the-power-value](https://github.com/trinav0711/LeetCode-problems/tree/master/1387-sort-integers-by-the-power-value) |
+| [1610-maximum-number-of-visible-points](https://github.com/trinav0711/LeetCode-problems/tree/master/1610-maximum-number-of-visible-points) |
 | [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/trinav0711/LeetCode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -477,6 +479,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0973-k-closest-points-to-origin](https://github.com/trinav0711/LeetCode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
+| [1610-maximum-number-of-visible-points](https://github.com/trinav0711/LeetCode-problems/tree/master/1610-maximum-number-of-visible-points) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/trinav0711/LeetCode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/trinav0711/LeetCode-problems/tree/master/2101-detonate-the-maximum-bombs) |
@@ -867,6 +870,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1004-max-consecutive-ones-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/trinav0711/LeetCode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/trinav0711/LeetCode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1610-maximum-number-of-visible-points](https://github.com/trinav0711/LeetCode-problems/tree/master/1610-maximum-number-of-visible-points) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/trinav0711/LeetCode-problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Matrix
 |  |
@@ -1294,6 +1298,7 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/trinav0711/LeetCode-problems/tree/master/0149-max-points-on-a-line) |
 | [0973-k-closest-points-to-origin](https://github.com/trinav0711/LeetCode-problems/tree/master/0973-k-closest-points-to-origin) |
+| [1610-maximum-number-of-visible-points](https://github.com/trinav0711/LeetCode-problems/tree/master/1610-maximum-number-of-visible-points) |
 | [2101-detonate-the-maximum-bombs](https://github.com/trinav0711/LeetCode-problems/tree/master/2101-detonate-the-maximum-bombs) |
 ## Queue
 |  |
