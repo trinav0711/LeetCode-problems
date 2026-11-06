@@ -1088,6 +1088,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/trinav0711/LeetCode-problems/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/trinav0711/LeetCode-problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/trinav0711/LeetCode-problems/tree/master/1631-path-with-minimum-effort) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/trinav0711/LeetCode-problems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -1136,6 +1137,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/trinav0711/LeetCode-problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/trinav0711/LeetCode-problems/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/trinav0711/LeetCode-problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/trinav0711/LeetCode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/trinav0711/LeetCode-problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -1268,6 +1270,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0841-keys-and-rooms](https://github.com/trinav0711/LeetCode-problems/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/trinav0711/LeetCode-problems/tree/master/0997-find-the-town-judge) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/trinav0711/LeetCode-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1462-course-schedule-iv](https://github.com/trinav0711/LeetCode-problems/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/trinav0711/LeetCode-problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1584-min-cost-to-connect-all-points](https://github.com/trinav0711/LeetCode-problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [2101-detonate-the-maximum-bombs](https://github.com/trinav0711/LeetCode-problems/tree/master/2101-detonate-the-maximum-bombs) |
@@ -1296,6 +1299,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0207-course-schedule](https://github.com/trinav0711/LeetCode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1462-course-schedule-iv](https://github.com/trinav0711/LeetCode-problems/tree/master/1462-course-schedule-iv) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/trinav0711/LeetCode-problems/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Iterator
 |  |
