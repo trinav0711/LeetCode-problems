@@ -1,16 +1,17 @@
 class Solution {
 public:
     int maxTurbulenceSize(vector<int>& arr) {
-        vector<vector<int>> dp(arr.size(), vector<int>(2, 1));
-        for(int i=1;i<dp.size();++i) {
+        pair<int,int> prev, cur;
+        prev={1,1};
+        int ans=1;
+        for(int i=1;i<arr.size();++i) {
+            cur.first=cur.second=1;
             if(arr[i]>arr[i-1])
-                dp[i][0]=dp[i-1][1]+1;
+                cur.first=prev.second+1;
             else if(arr[i]<arr[i-1])
-                dp[i][1]=dp[i-1][0]+1;
-        }
-        int ans=INT_MIN;
-        for(int i=0;i<dp.size();++i) {
-            ans=max({ans, dp[i][0], dp[i][1]});
+                cur.second=prev.first+1;
+            ans=max({ans, cur.first, cur.second});
+            prev.first=cur.first; prev.second=cur.second;
         }
         return ans;
     }
