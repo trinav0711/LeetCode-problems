@@ -158,6 +158,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0860-lemonade-change](https://github.com/trinav0711/LeetCode-problems/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/trinav0711/LeetCode-problems/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/trinav0711/LeetCode-problems/tree/master/0881-boats-to-save-people) |
 | [0900-rle-iterator](https://github.com/trinav0711/LeetCode-problems/tree/master/0900-rle-iterator) |
 | [0909-snakes-and-ladders](https://github.com/trinav0711/LeetCode-problems/tree/master/0909-snakes-and-ladders) |
@@ -489,6 +490,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0528-random-pick-with-weight](https://github.com/trinav0711/LeetCode-problems/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/trinav0711/LeetCode-problems/tree/master/0539-minimum-time-difference) |
 | [0843-guess-the-word](https://github.com/trinav0711/LeetCode-problems/tree/master/0843-guess-the-word) |
+| [0877-stone-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/trinav0711/LeetCode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
@@ -557,6 +559,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0790-domino-and-tromino-tiling](https://github.com/trinav0711/LeetCode-problems/tree/master/0790-domino-and-tromino-tiling) |
 | [0792-number-of-matching-subsequences](https://github.com/trinav0711/LeetCode-problems/tree/master/0792-number-of-matching-subsequences) |
 | [0818-race-car](https://github.com/trinav0711/LeetCode-problems/tree/master/0818-race-car) |
+| [0877-stone-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/trinav0711/LeetCode-problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/trinav0711/LeetCode-problems/tree/master/0978-longest-turbulent-subarray) |
 | [1048-longest-string-chain](https://github.com/trinav0711/LeetCode-problems/tree/master/1048-longest-string-chain) |
@@ -1452,6 +1455,7 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0292-nim-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0292-nim-game) |
 | [0843-guess-the-word](https://github.com/trinav0711/LeetCode-problems/tree/master/0843-guess-the-word) |
+| [0877-stone-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0877-stone-game) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1551,6 +1555,7 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0778-swim-in-rising-water) |
 | [0843-guess-the-word](https://github.com/trinav0711/LeetCode-problems/tree/master/0843-guess-the-word) |
+| [0877-stone-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0877-stone-game) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -1636,4 +1641,8 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0818-race-car](https://github.com/trinav0711/LeetCode-problems/tree/master/0818-race-car) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
