@@ -132,6 +132,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0621-task-scheduler](https://github.com/trinav0711/LeetCode-problems/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/trinav0711/LeetCode-problems/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/trinav0711/LeetCode-problems/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/trinav0711/LeetCode-problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/trinav0711/LeetCode-problems/tree/master/0704-binary-search) |
@@ -250,6 +251,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0455-assign-cookies](https://github.com/trinav0711/LeetCode-problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/trinav0711/LeetCode-problems/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/trinav0711/LeetCode-problems/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/trinav0711/LeetCode-problems/tree/master/0763-partition-labels) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0777-swap-adjacent-in-lr-string) |
@@ -294,6 +296,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0539-minimum-time-difference](https://github.com/trinav0711/LeetCode-problems/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/trinav0711/LeetCode-problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/trinav0711/LeetCode-problems/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/trinav0711/LeetCode-problems/tree/master/0658-find-k-closest-elements) |
 | [0726-number-of-atoms](https://github.com/trinav0711/LeetCode-problems/tree/master/0726-number-of-atoms) |
 | [0792-number-of-matching-subsequences](https://github.com/trinav0711/LeetCode-problems/tree/master/0792-number-of-matching-subsequences) |
 | [0833-find-and-replace-in-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0833-find-and-replace-in-string) |
@@ -840,6 +843,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0528-random-pick-with-weight](https://github.com/trinav0711/LeetCode-problems/tree/master/0528-random-pick-with-weight) |
+| [0658-find-k-closest-elements](https://github.com/trinav0711/LeetCode-problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/trinav0711/LeetCode-problems/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0729-my-calendar-i) |
 | [0778-swim-in-rising-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0778-swim-in-rising-water) |
@@ -870,6 +874,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0438-find-all-anagrams-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/trinav0711/LeetCode-problems/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/trinav0711/LeetCode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/trinav0711/LeetCode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1348,6 +1353,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0502-ipo](https://github.com/trinav0711/LeetCode-problems/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/trinav0711/LeetCode-problems/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/trinav0711/LeetCode-problems/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/trinav0711/LeetCode-problems/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/trinav0711/LeetCode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/trinav0711/LeetCode-problems/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0778-swim-in-rising-water) |
