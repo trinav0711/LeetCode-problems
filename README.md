@@ -136,6 +136,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0658-find-k-closest-elements](https://github.com/trinav0711/LeetCode-problems/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/trinav0711/LeetCode-problems/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/trinav0711/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/trinav0711/LeetCode-problems/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/trinav0711/LeetCode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/trinav0711/LeetCode-problems/tree/master/0706-design-hashmap) |
@@ -545,6 +546,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0552-student-attendance-record-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0552-student-attendance-record-ii) |
 | [0647-palindromic-substrings](https://github.com/trinav0711/LeetCode-problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0678-valid-parenthesis-string) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/trinav0711/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/trinav0711/LeetCode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/trinav0711/LeetCode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/trinav0711/LeetCode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1252,6 +1254,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0401-binary-watch](https://github.com/trinav0711/LeetCode-problems/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/trinav0711/LeetCode-problems/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/trinav0711/LeetCode-problems/tree/master/0645-set-mismatch) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/trinav0711/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/trinav0711/LeetCode-problems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/trinav0711/LeetCode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/trinav0711/LeetCode-problems/tree/master/2135-count-words-obtained-after-adding-a-letter) |
@@ -1287,6 +1290,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0139-word-break](https://github.com/trinav0711/LeetCode-problems/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0509-fibonacci-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/trinav0711/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/trinav0711/LeetCode-problems/tree/master/1387-sort-integers-by-the-power-value) |
 ## Shortest Path
@@ -1420,6 +1424,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0257-binary-tree-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/trinav0711/LeetCode-problems/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/trinav0711/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/trinav0711/LeetCode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/trinav0711/LeetCode-problems/tree/master/2178-maximum-split-of-positive-even-integers) |
 ## Number Theory
@@ -1602,6 +1607,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Bitmask
 |  |
 | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/trinav0711/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2172-maximum-and-sum-of-array](https://github.com/trinav0711/LeetCode-problems/tree/master/2172-maximum-and-sum-of-array) |
 ## Segment Tree
 |  |
