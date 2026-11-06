@@ -78,6 +78,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0216-combination-sum-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/trinav0711/LeetCode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/trinav0711/LeetCode-problems/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/trinav0711/LeetCode-problems/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0229-majority-element-ii) |
@@ -272,6 +273,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0169-majority-element](https://github.com/trinav0711/LeetCode-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/trinav0711/LeetCode-problems/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/trinav0711/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0268-missing-number) |
@@ -862,6 +864,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0076-minimum-window-substring](https://github.com/trinav0711/LeetCode-problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/trinav0711/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/trinav0711/LeetCode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -1370,6 +1373,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0715-range-module](https://github.com/trinav0711/LeetCode-problems/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0729-my-calendar-i) |
 | [0895-maximum-frequency-stack](https://github.com/trinav0711/LeetCode-problems/tree/master/0895-maximum-frequency-stack) |
@@ -1522,6 +1526,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Bucket Sort
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/trinav0711/LeetCode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/trinav0711/LeetCode-problems/tree/master/0912-sort-an-array) |
 ## Sweep Line
