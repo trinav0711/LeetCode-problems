@@ -192,6 +192,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1631-path-with-minimum-effort](https://github.com/trinav0711/LeetCode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/trinav0711/LeetCode-problems/tree/master/1732-find-the-highest-altitude) |
+| [1834-single-threaded-cpu](https://github.com/trinav0711/LeetCode-problems/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/trinav0711/LeetCode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/trinav0711/LeetCode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/trinav0711/LeetCode-problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -325,6 +326,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1610-maximum-number-of-visible-points](https://github.com/trinav0711/LeetCode-problems/tree/master/1610-maximum-number-of-visible-points) |
 | [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1834-single-threaded-cpu](https://github.com/trinav0711/LeetCode-problems/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/trinav0711/LeetCode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/trinav0711/LeetCode-problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -1412,6 +1414,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/trinav0711/LeetCode-problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/trinav0711/LeetCode-problems/tree/master/1631-path-with-minimum-effort) |
+| [1834-single-threaded-cpu](https://github.com/trinav0711/LeetCode-problems/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/trinav0711/LeetCode-problems/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2034-stock-price-fluctuation](https://github.com/trinav0711/LeetCode-problems/tree/master/2034-stock-price-fluctuation) |
 | [2336-smallest-number-in-infinite-set](https://github.com/trinav0711/LeetCode-problems/tree/master/2336-smallest-number-in-infinite-set) |
