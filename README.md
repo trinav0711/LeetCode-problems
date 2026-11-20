@@ -131,6 +131,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0605-can-place-flowers](https://github.com/trinav0711/LeetCode-problems/tree/master/0605-can-place-flowers) |
 | [0609-find-duplicate-file-in-system](https://github.com/trinav0711/LeetCode-problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0621-task-scheduler](https://github.com/trinav0711/LeetCode-problems/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/trinav0711/LeetCode-problems/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/trinav0711/LeetCode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/trinav0711/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/trinav0711/LeetCode-problems/tree/master/0658-find-k-closest-elements) |
@@ -627,6 +628,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0355-design-twitter](https://github.com/trinav0711/LeetCode-problems/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/trinav0711/LeetCode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/trinav0711/LeetCode-problems/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/trinav0711/LeetCode-problems/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/trinav0711/LeetCode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/trinav0711/LeetCode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/trinav0711/LeetCode-problems/tree/master/0706-design-hashmap) |
@@ -973,6 +975,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0328-odd-even-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/trinav0711/LeetCode-problems/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/trinav0711/LeetCode-problems/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/trinav0711/LeetCode-problems/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/trinav0711/LeetCode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/trinav0711/LeetCode-problems/tree/master/0706-design-hashmap) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/trinav0711/LeetCode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -1350,6 +1353,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0232-implement-queue-using-stacks](https://github.com/trinav0711/LeetCode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/trinav0711/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/trinav0711/LeetCode-problems/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/trinav0711/LeetCode-problems/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/trinav0711/LeetCode-problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/trinav0711/LeetCode-problems/tree/master/0933-number-of-recent-calls) |
