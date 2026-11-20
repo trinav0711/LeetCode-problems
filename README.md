@@ -483,6 +483,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0292-nim-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/trinav0711/LeetCode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/trinav0711/LeetCode-problems/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/trinav0711/LeetCode-problems/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/trinav0711/LeetCode-problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/trinav0711/LeetCode-problems/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/trinav0711/LeetCode-problems/tree/master/0380-insert-delete-getrandom-o1) |
@@ -547,6 +548,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/trinav0711/LeetCode-problems/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/trinav0711/LeetCode-problems/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0416-partition-equal-subset-sum) |
