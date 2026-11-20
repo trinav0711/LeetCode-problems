@@ -177,6 +177,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1048-longest-string-chain](https://github.com/trinav0711/LeetCode-problems/tree/master/1048-longest-string-chain) |
 | [1094-car-pooling](https://github.com/trinav0711/LeetCode-problems/tree/master/1094-car-pooling) |
 | [1105-filling-bookcase-shelves](https://github.com/trinav0711/LeetCode-problems/tree/master/1105-filling-bookcase-shelves) |
+| [1140-stone-game-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/1140-stone-game-ii) |
 | [1146-snapshot-array](https://github.com/trinav0711/LeetCode-problems/tree/master/1146-snapshot-array) |
 | [1184-distance-between-bus-stops](https://github.com/trinav0711/LeetCode-problems/tree/master/1184-distance-between-bus-stops) |
 | [1207-unique-number-of-occurrences](https://github.com/trinav0711/LeetCode-problems/tree/master/1207-unique-number-of-occurrences) |
@@ -500,6 +501,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0973-k-closest-points-to-origin](https://github.com/trinav0711/LeetCode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/1140-stone-game-ii) |
 | [1610-maximum-number-of-visible-points](https://github.com/trinav0711/LeetCode-problems/tree/master/1610-maximum-number-of-visible-points) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/trinav0711/LeetCode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -572,6 +574,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1048-longest-string-chain](https://github.com/trinav0711/LeetCode-problems/tree/master/1048-longest-string-chain) |
 | [1105-filling-bookcase-shelves](https://github.com/trinav0711/LeetCode-problems/tree/master/1105-filling-bookcase-shelves) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/trinav0711/LeetCode-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -665,6 +668,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0724-find-pivot-index](https://github.com/trinav0711/LeetCode-problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/trinav0711/LeetCode-problems/tree/master/1094-car-pooling) |
+| [1140-stone-game-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/trinav0711/LeetCode-problems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/trinav0711/LeetCode-problems/tree/master/2574-left-and-right-sum-differences) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/trinav0711/LeetCode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -1470,6 +1474,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0292-nim-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0292-nim-game) |
 | [0843-guess-the-word](https://github.com/trinav0711/LeetCode-problems/tree/master/0843-guess-the-word) |
 | [0877-stone-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/1140-stone-game-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1570,6 +1575,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0778-swim-in-rising-water](https://github.com/trinav0711/LeetCode-problems/tree/master/0778-swim-in-rising-water) |
 | [0843-guess-the-word](https://github.com/trinav0711/LeetCode-problems/tree/master/0843-guess-the-word) |
 | [0877-stone-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/1140-stone-game-ii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -1659,4 +1665,5 @@ LeetCode problems solved to demonstrate and track progress
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
