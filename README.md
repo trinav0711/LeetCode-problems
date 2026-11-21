@@ -1099,6 +1099,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/trinav0711/LeetCode-problems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/trinav0711/LeetCode-problems/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/0337-house-robber-iii) |
@@ -1153,6 +1154,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0210-course-schedule-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/trinav0711/LeetCode-problems/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/trinav0711/LeetCode-problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/trinav0711/LeetCode-problems/tree/master/0399-evaluate-division) |
@@ -1303,6 +1305,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0133-clone-graph](https://github.com/trinav0711/LeetCode-problems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/trinav0711/LeetCode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/trinav0711/LeetCode-problems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/trinav0711/LeetCode-problems/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/trinav0711/LeetCode-problems/tree/master/0399-evaluate-division) |
@@ -1342,6 +1345,7 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0207-course-schedule](https://github.com/trinav0711/LeetCode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/trinav0711/LeetCode-problems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/trinav0711/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1462-course-schedule-iv](https://github.com/trinav0711/LeetCode-problems/tree/master/1462-course-schedule-iv) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/trinav0711/LeetCode-problems/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
