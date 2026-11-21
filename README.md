@@ -219,6 +219,7 @@ LeetCode problems solved to demonstrate and track progress
 | [2542-maximum-subsequence-score](https://github.com/trinav0711/LeetCode-problems/tree/master/2542-maximum-subsequence-score) |
 | [2574-left-and-right-sum-differences](https://github.com/trinav0711/LeetCode-problems/tree/master/2574-left-and-right-sum-differences) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/trinav0711/LeetCode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2707-extra-characters-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/2707-extra-characters-in-a-string) |
 | [3225-maximum-score-from-grid-operations](https://github.com/trinav0711/LeetCode-problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/trinav0711/LeetCode-problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trinav0711/LeetCode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -422,6 +423,7 @@ LeetCode problems solved to demonstrate and track progress
 | [2352-equal-row-and-column-pairs](https://github.com/trinav0711/LeetCode-problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/2402-meeting-rooms-iii) |
 | [2421-number-of-good-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/2421-number-of-good-paths) |
+| [2707-extra-characters-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/2707-extra-characters-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/trinav0711/LeetCode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/trinav0711/LeetCode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Divide and Conquer
@@ -584,6 +586,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/trinav0711/LeetCode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/trinav0711/LeetCode-problems/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2172-maximum-and-sum-of-array](https://github.com/trinav0711/LeetCode-problems/tree/master/2172-maximum-and-sum-of-array) |
+| [2707-extra-characters-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/2707-extra-characters-in-a-string) |
 | [3225-maximum-score-from-grid-operations](https://github.com/trinav0711/LeetCode-problems/tree/master/3225-maximum-score-from-grid-operations) |
 ## Greedy
 |  |
@@ -768,6 +771,7 @@ LeetCode problems solved to demonstrate and track progress
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/trinav0711/LeetCode-problems/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2390-removing-stars-from-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/2390-removing-stars-from-a-string) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [2707-extra-characters-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/2707-extra-characters-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/trinav0711/LeetCode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Trie
 |  |
@@ -780,6 +784,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0792-number-of-matching-subsequences](https://github.com/trinav0711/LeetCode-problems/tree/master/0792-number-of-matching-subsequences) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [2707-extra-characters-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/2707-extra-characters-in-a-string) |
 ## String Matching
 |  |
 | ------- |
