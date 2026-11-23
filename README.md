@@ -177,6 +177,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1046-last-stone-weight](https://github.com/trinav0711/LeetCode-problems/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/trinav0711/LeetCode-problems/tree/master/1048-longest-string-chain) |
 | [1094-car-pooling](https://github.com/trinav0711/LeetCode-problems/tree/master/1094-car-pooling) |
+| [1095-find-in-mountain-array](https://github.com/trinav0711/LeetCode-problems/tree/master/1095-find-in-mountain-array) |
 | [1105-filling-bookcase-shelves](https://github.com/trinav0711/LeetCode-problems/tree/master/1105-filling-bookcase-shelves) |
 | [1140-stone-game-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/1140-stone-game-ii) |
 | [1146-snapshot-array](https://github.com/trinav0711/LeetCode-problems/tree/master/1146-snapshot-array) |
@@ -891,6 +892,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0981-time-based-key-value-store](https://github.com/trinav0711/LeetCode-problems/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/trinav0711/LeetCode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/trinav0711/LeetCode-problems/tree/master/1095-find-in-mountain-array) |
 | [1146-snapshot-array](https://github.com/trinav0711/LeetCode-problems/tree/master/1146-snapshot-array) |
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
 | [1631-path-with-minimum-effort](https://github.com/trinav0711/LeetCode-problems/tree/master/1631-path-with-minimum-effort) |
@@ -1397,6 +1399,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0278-first-bad-version](https://github.com/trinav0711/LeetCode-problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/trinav0711/LeetCode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0843-guess-the-word](https://github.com/trinav0711/LeetCode-problems/tree/master/0843-guess-the-word) |
+| [1095-find-in-mountain-array](https://github.com/trinav0711/LeetCode-problems/tree/master/1095-find-in-mountain-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1685,4 +1688,8 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0877-stone-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/1140-stone-game-ii) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/trinav0711/LeetCode-problems/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
