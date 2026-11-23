@@ -186,6 +186,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1268-search-suggestions-system](https://github.com/trinav0711/LeetCode-problems/tree/master/1268-search-suggestions-system) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/trinav0711/LeetCode-problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/trinav0711/LeetCode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/trinav0711/LeetCode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1584-min-cost-to-connect-all-points](https://github.com/trinav0711/LeetCode-problems/tree/master/1584-min-cost-to-connect-all-points) |
@@ -509,6 +510,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1071-greatest-common-divisor-of-strings](https://github.com/trinav0711/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/1406-stone-game-iii) |
 | [1610-maximum-number-of-visible-points](https://github.com/trinav0711/LeetCode-problems/tree/master/1610-maximum-number-of-visible-points) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/trinav0711/LeetCode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/trinav0711/LeetCode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -586,6 +588,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/trinav0711/LeetCode-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1387-sort-integers-by-the-power-value](https://github.com/trinav0711/LeetCode-problems/tree/master/1387-sort-integers-by-the-power-value) |
+| [1406-stone-game-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/trinav0711/LeetCode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/trinav0711/LeetCode-problems/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2172-maximum-and-sum-of-array](https://github.com/trinav0711/LeetCode-problems/tree/master/2172-maximum-and-sum-of-array) |
@@ -1496,6 +1499,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0843-guess-the-word](https://github.com/trinav0711/LeetCode-problems/tree/master/0843-guess-the-word) |
 | [0877-stone-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/1406-stone-game-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1597,6 +1601,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0843-guess-the-word](https://github.com/trinav0711/LeetCode-problems/tree/master/0843-guess-the-word) |
 | [0877-stone-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/1406-stone-game-iii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -1688,6 +1693,7 @@ LeetCode problems solved to demonstrate and track progress
 | ------- |
 | [0877-stone-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/1406-stone-game-iii) |
 ## Ternary Search
 |  |
 | ------- |
