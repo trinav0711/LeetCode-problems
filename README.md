@@ -592,6 +592,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1387-sort-integers-by-the-power-value](https://github.com/trinav0711/LeetCode-problems/tree/master/1387-sort-integers-by-the-power-value) |
 | [1406-stone-game-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/trinav0711/LeetCode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1871-jump-game-vii](https://github.com/trinav0711/LeetCode-problems/tree/master/1871-jump-game-vii) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/trinav0711/LeetCode-problems/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2172-maximum-and-sum-of-array](https://github.com/trinav0711/LeetCode-problems/tree/master/2172-maximum-and-sum-of-array) |
 | [2707-extra-characters-in-a-string](https://github.com/trinav0711/LeetCode-problems/tree/master/2707-extra-characters-in-a-string) |
@@ -683,6 +684,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1094-car-pooling](https://github.com/trinav0711/LeetCode-problems/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/trinav0711/LeetCode-problems/tree/master/1732-find-the-highest-altitude) |
+| [1871-jump-game-vii](https://github.com/trinav0711/LeetCode-problems/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/trinav0711/LeetCode-problems/tree/master/2574-left-and-right-sum-differences) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/trinav0711/LeetCode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3225-maximum-score-from-grid-operations](https://github.com/trinav0711/LeetCode-problems/tree/master/3225-maximum-score-from-grid-operations) |
@@ -774,6 +776,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/trinav0711/LeetCode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/trinav0711/LeetCode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/trinav0711/LeetCode-problems/tree/master/1768-merge-strings-alternately) |
+| [1871-jump-game-vii](https://github.com/trinav0711/LeetCode-problems/tree/master/1871-jump-game-vii) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/trinav0711/LeetCode-problems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/trinav0711/LeetCode-problems/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/trinav0711/LeetCode-problems/tree/master/2135-count-words-obtained-after-adding-a-letter) |
@@ -926,6 +929,7 @@ LeetCode problems solved to demonstrate and track progress
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/trinav0711/LeetCode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/trinav0711/LeetCode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1610-maximum-number-of-visible-points](https://github.com/trinav0711/LeetCode-problems/tree/master/1610-maximum-number-of-visible-points) |
+| [1871-jump-game-vii](https://github.com/trinav0711/LeetCode-problems/tree/master/1871-jump-game-vii) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/trinav0711/LeetCode-problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Matrix
 |  |
