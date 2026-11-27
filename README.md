@@ -120,6 +120,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/trinav0711/LeetCode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/trinav0711/LeetCode-problems/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/trinav0711/LeetCode-problems/tree/master/0463-island-perimeter) |
+| [0473-matchsticks-to-square](https://github.com/trinav0711/LeetCode-problems/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/trinav0711/LeetCode-problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/trinav0711/LeetCode-problems/tree/master/0495-teemo-attacking) |
@@ -568,6 +569,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0410-split-array-largest-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/trinav0711/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/trinav0711/LeetCode-problems/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0518-coin-change-ii) |
@@ -1308,6 +1310,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0389-find-the-difference](https://github.com/trinav0711/LeetCode-problems/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/trinav0711/LeetCode-problems/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/trinav0711/LeetCode-problems/tree/master/0461-hamming-distance) |
+| [0473-matchsticks-to-square](https://github.com/trinav0711/LeetCode-problems/tree/master/0473-matchsticks-to-square) |
 | [0645-set-mismatch](https://github.com/trinav0711/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/trinav0711/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/trinav0711/LeetCode-problems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -1487,6 +1490,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0216-combination-sum-iii](https://github.com/trinav0711/LeetCode-problems/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/trinav0711/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/trinav0711/LeetCode-problems/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/trinav0711/LeetCode-problems/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/trinav0711/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/trinav0711/LeetCode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -1680,6 +1684,7 @@ LeetCode problems solved to demonstrate and track progress
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/trinav0711/LeetCode-problems/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/trinav0711/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2172-maximum-and-sum-of-array](https://github.com/trinav0711/LeetCode-problems/tree/master/2172-maximum-and-sum-of-array) |
 ## Segment Tree
