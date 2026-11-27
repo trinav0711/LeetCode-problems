@@ -490,6 +490,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0258-add-digits](https://github.com/trinav0711/LeetCode-problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/trinav0711/LeetCode-problems/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/trinav0711/LeetCode-problems/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/trinav0711/LeetCode-problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/trinav0711/LeetCode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/trinav0711/LeetCode-problems/tree/master/0342-power-of-four) |
@@ -553,6 +554,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0198-house-robber](https://github.com/trinav0711/LeetCode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/trinav0711/LeetCode-problems/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/trinav0711/LeetCode-problems/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/trinav0711/LeetCode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/trinav0711/LeetCode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/trinav0711/LeetCode-problems/tree/master/0312-burst-balloons) |
@@ -1166,6 +1168,7 @@ LeetCode problems solved to demonstrate and track progress
 | [0207-course-schedule](https://github.com/trinav0711/LeetCode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/trinav0711/LeetCode-problems/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/trinav0711/LeetCode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/trinav0711/LeetCode-problems/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/trinav0711/LeetCode-problems/tree/master/0322-coin-change) |
@@ -1524,12 +1527,14 @@ LeetCode problems solved to demonstrate and track progress
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/trinav0711/LeetCode-problems/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/trinav0711/LeetCode-problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/trinav0711/LeetCode-problems/tree/master/0279-perfect-squares) |
 | [0518-coin-change-ii](https://github.com/trinav0711/LeetCode-problems/tree/master/0518-coin-change-ii) |
 ## K-D Tree
 |  |
